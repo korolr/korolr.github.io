@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "My New Hugo Site"
-baseURL = "http://korolr.me/blog"
+baseURL = "http://korolr.me/blog/"
 publishDir = "blog"
 # Site settings
 theme = "hugo-cactus-theme"
