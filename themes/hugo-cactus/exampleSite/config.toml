@@ -1,23 +1,24 @@
-languageCode = "en-us"
-title = "My New Hugo Site"
-baseURL = "http://korolr.me/blog/"
-publishDir = "blog"
 # Site settings
-theme = "hugo-cactus"
+baseurl = "https://example.org/"
+themesDir = "../.."
+languageCode = "en-us"
+title = "Hugo Cactus Theme"
+theme = "hugo-cactus-theme"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
 # Disable comments by leaving disqusShortname empty
 disqusShortname = "spf13"
 
 [params]
-	name = "Alexsey Lebdev"
+	name = "John Doe"
 	description = "Describe your website"
-	bio = "Боль, python и javascript"
+	bio = "Blogger - Programmer - Gopher"
 	# Enter optionally your twitter account
-	twitter = "korolr22"
+	twitter = "Your Twitter account"
 	enableRSS = true
 
-	# Add custom assets with their paths relative to the static folder
+	# Integrate Javascript files or stylesheets by adding the url to the external assets or by
+	# linking local files with their path relative to the static folder, e.g. "css/styles.css"
 	customCSS = []
 	customJS  = []
 
@@ -48,7 +49,7 @@ disqusShortname = "spf13"
 
 # Add additional social link entries underneath
 [social]
-    twitter  = "https://www.twitter.com/korolr22"
+    twitter  = "https://www.twitter.com/"
     facebook = "https://www.facebook.com/"
-    github   = "https://www.github.com/korolr"
+    github   = "https://www.github.com/"
     dribble  = "https://www.dribbble.com/"
