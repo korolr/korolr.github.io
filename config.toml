@@ -1,5 +1,5 @@
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Мой блог."
 baseURL = "http://korolr.me/blog/"
 publishDir = "blog"
 # Site settings
@@ -7,7 +7,7 @@ theme = "hugo-cactus"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
 # Disable comments by leaving disqusShortname empty
-disqusShortname = "spf13"
+disqusShortname = "vuejsblog"
 
 [params]
 	name = "Alexsey Lebdev"
@@ -26,7 +26,7 @@ disqusShortname = "spf13"
 
 	# Navigation links
 	home = ""
-	about = ""
+	about = "https://www.linkedin.com/in/alexsey-lebedev-8487a8130"
 	subscribe = ""
 	# Pagination links
 	olderPosts = ""
@@ -34,7 +34,7 @@ disqusShortname = "spf13"
 	readMore = ""
 	copyright = ""
 	# Sharing options and author information in posts
-	aboutAuthor = "I'm an enthusiastic gopher."
+	aboutAuthor = "Энтузиаст."
 	tweet = ""
 	share = ""
 	# 404 page
