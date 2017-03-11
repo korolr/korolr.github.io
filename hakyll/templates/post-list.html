@@ -1,0 +1,12 @@
+<ul class="post-listing">
+    $for(posts)$
+        <li class="post-link">
+          <a href="$url$">$title$</a>
+          <p>
+            $if(teaser)$
+              $teaser$
+            $endif$
+          </p>
+        </li>
+    $endfor$
+</ul>

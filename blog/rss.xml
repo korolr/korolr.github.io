@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>bitemyapp</title>
+        <link>http://bitemyapp.com/</link>
+        <description><![CDATA[FP/Haskell blog]]></description>
+        <atom:link href="http://bitemyapp.com//rss.xml" rel="self"
+                   type="application/rss+xml" />
+        <lastBuildDate>Sat, 03 Sep 2016 00:00:00 UT</lastBuildDate>
+        <item>
+    <title>Hello word</title>
+    <link>http://bitemyapp.com//posts/2016-09-03-hello%20word.html</link>
+    <description><![CDATA[<div class="info">
+    
+</div>
+
+<div class="post">
+<p>Первый пост</p>
+<!--more-->
+<p>Здесь что-то будет, наверное</p>
+</div>
+
+<div class="blurb">
+  <p>
+      Follow me <a href="http://github.com/korolr">github</a> 
+  </p>
+</div>
+
+<div class="footer">
+  <p>
+    Posted on September  3, 2016
+  </p>
+</div>
+]]></description>
+    <pubDate>Sat, 03 Sep 2016 00:00:00 UT</pubDate>
+    <guid>http://bitemyapp.com//posts/2016-09-03-hello%20word.html</guid>
+    <dc:creator>Chris Allen</dc:creator>
+</item>
+
+    </channel>
+</rss>

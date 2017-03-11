@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>bitemyapp</title>
+    <link href="http://bitemyapp.com//atom.xml" rel="self" />
+    <link href="http://bitemyapp.com/" />
+    <id>http://bitemyapp.com//atom.xml</id>
+    <author>
+        <name>Chris Allen</name>
+        <email>cma@bitemyapp.com</email>
+    </author>
+    <updated>2016-09-03T00:00:00Z</updated>
+    <entry>
+    <title>Hello word</title>
+    <link href="http://bitemyapp.com//posts/2016-09-03-hello%20word.html" />
+    <id>http://bitemyapp.com//posts/2016-09-03-hello%20word.html</id>
+    <published>2016-09-03T00:00:00Z</published>
+    <updated>2016-09-03T00:00:00Z</updated>
+    <summary type="html"><![CDATA[<div class="info">
+    
+</div>
+
+<div class="post">
+<p>Первый пост</p>
+<!--more-->
+<p>Здесь что-то будет, наверное</p>
+</div>
+
+<div class="blurb">
+  <p>
+      Follow me <a href="http://github.com/korolr">github</a> 
+  </p>
+</div>
+
+<div class="footer">
+  <p>
+    Posted on September  3, 2016
+  </p>
+</div>
+]]></summary>
+</entry>
+
+</feed>

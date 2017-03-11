@@ -1,0 +1,13 @@
+resolver: nightly-2016-10-31
+extra-package-dbs: []
+extra-deps:
+  - 'QuickCheck-2.9.2'
+
+flags:
+  hakyll:
+    previewServer: True
+    watchServer:   True
+    checkExternal: True
+
+packages:
+  - '.'
