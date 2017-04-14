@@ -42,11 +42,13 @@ canvas {
 .content {
   text-align: center;
   position: absolute;
-  top: 25%;
+  top: 10%;
   left:50%;
   margin-left: -200px; 
 }
-
+.btn-front {
+    width: 225px;
+}
 .img-header {
   border-radius: 100px;
   width: 150px;

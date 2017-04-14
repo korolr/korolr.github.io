@@ -1,0 +1,2798 @@
+Configuring enumerator-0.4.20...
+Building enumerator-0.4.20...
+Preprocessing library enumerator-0.4.20...
+[ 1 of 10] Compiling Data.Enumerator.Util ( lib/Data/Enumerator/Util.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Data/Enumerator/Util.o )
+
+lib/Data/Enumerator/Util.hs:12:1: Warning: Tab character
+
+lib/Data/Enumerator/Util.hs:13:1: Warning: Tab character
+
+lib/Data/Enumerator/Util.hs:14:1: Warning: Tab character
+
+lib/Data/Enumerator/Util.hs:15:1: Warning: Tab character
+[ 2 of 10] Compiling Data.Enumerator.Internal ( lib/Data/Enumerator/Internal.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Data/Enumerator/Internal.o )
+
+lib/Data/Enumerator/Internal.hs:17:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:18:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:19:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:20:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:21:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:22:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:23:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:24:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:25:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:26:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:27:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:28:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:29:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:30:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:31:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:32:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:33:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:34:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:35:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:36:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:37:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:38:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:39:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:40:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:41:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:42:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:50:1: Warning:
+    The import of ‘Data.Monoid’ is redundant
+      except perhaps to import instances from ‘Data.Monoid’
+    To import instances alone, use: import Data.Monoid()
+
+lib/Data/Enumerator/Internal.hs:65:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:66:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:67:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:70:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:71:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:72:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:75:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:76:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:77:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:80:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:81:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:82:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:83:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:84:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:85:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:86:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:87:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:88:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:89:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:90:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:91:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:92:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:107:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:108:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:111:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:113:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:114:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:115:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:116:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:117:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:118:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:119:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:120:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:121:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:122:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:123:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:126:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:129:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:194:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:197:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:198:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:201:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:202:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:206:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:207:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:292:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:293:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:302:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:303:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:304:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:312:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:313:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:341:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:342:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:359:1: Warning: Tab character
+
+lib/Data/Enumerator/Internal.hs:360:1: Warning: Tab character
+[ 3 of 10] Compiling Data.Enumerator.List[boot] ( lib/Data/Enumerator/List.hs-boot, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Data/Enumerator/List.o-boot )
+[ 4 of 10] Compiling Data.Enumerator.Compatibility ( lib/Data/Enumerator/Compatibility.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Data/Enumerator/Compatibility.o )
+
+lib/Data/Enumerator/Compatibility.hs:11:1: Warning: Tab character
+
+lib/Data/Enumerator/Compatibility.hs:12:1: Warning: Tab character
+
+lib/Data/Enumerator/Compatibility.hs:13:1: Warning: Tab character
+
+lib/Data/Enumerator/Compatibility.hs:14:1: Warning: Tab character
+
+lib/Data/Enumerator/Compatibility.hs:15:1: Warning: Tab character
+
+lib/Data/Enumerator/Compatibility.hs:16:1: Warning: Tab character
+
+lib/Data/Enumerator/Compatibility.hs:17:1: Warning: Tab character
+
+lib/Data/Enumerator/Compatibility.hs:18:1: Warning: Tab character
+
+lib/Data/Enumerator/Compatibility.hs:19:1: Warning: Tab character
+
+lib/Data/Enumerator/Compatibility.hs:20:1: Warning: Tab character
+
+lib/Data/Enumerator/Compatibility.hs:21:1: Warning: Tab character
+
+lib/Data/Enumerator/Compatibility.hs:22:1: Warning: Tab character
+
+lib/Data/Enumerator/Compatibility.hs:23:1: Warning: Tab character
+
+lib/Data/Enumerator/Compatibility.hs:24:1: Warning: Tab character
+
+lib/Data/Enumerator/Compatibility.hs:25:1: Warning: Tab character
+
+lib/Data/Enumerator/Compatibility.hs:26:1: Warning: Tab character
+
+lib/Data/Enumerator/Compatibility.hs:27:1: Warning: Tab character
+
+lib/Data/Enumerator/Compatibility.hs:28:1: Warning: Tab character
+
+lib/Data/Enumerator/Compatibility.hs:29:1: Warning: Tab character
+
+lib/Data/Enumerator/Compatibility.hs:30:1: Warning: Tab character
+
+lib/Data/Enumerator/Compatibility.hs:31:1: Warning: Tab character
+
+lib/Data/Enumerator/Compatibility.hs:32:1: Warning: Tab character
+
+lib/Data/Enumerator/Compatibility.hs:33:1: Warning: Tab character
+
+lib/Data/Enumerator/Compatibility.hs:34:1: Warning: Tab character
+
+lib/Data/Enumerator/Compatibility.hs:35:1: Warning: Tab character
+
+lib/Data/Enumerator/Compatibility.hs:36:1: Warning: Tab character
+
+lib/Data/Enumerator/Compatibility.hs:37:1: Warning: Tab character
+
+lib/Data/Enumerator/Compatibility.hs:38:1: Warning: Tab character
+
+lib/Data/Enumerator/Compatibility.hs:88:1: Warning: Tab character
+
+lib/Data/Enumerator/Compatibility.hs:89:1: Warning: Tab character
+
+lib/Data/Enumerator/Compatibility.hs:90:1: Warning: Tab character
+
+lib/Data/Enumerator/Compatibility.hs:91:1: Warning: Tab character
+
+lib/Data/Enumerator/Compatibility.hs:92:1: Warning: Tab character
+[ 5 of 10] Compiling Data.Enumerator  ( lib/Data/Enumerator.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Data/Enumerator.o )
+
+lib/Data/Enumerator.hs:15:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:16:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:17:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:18:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:19:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:20:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:21:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:22:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:23:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:24:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:25:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:26:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:27:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:28:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:29:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:30:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:31:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:32:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:33:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:34:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:35:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:36:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:37:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:38:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:39:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:40:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:41:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:42:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:43:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:44:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:45:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:46:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:47:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:48:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:49:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:50:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:51:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:52:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:53:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:54:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:55:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:56:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:57:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:58:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:59:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:60:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:61:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:62:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:63:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:63:11: Warning:
+    ‘Iteratee’ is exported by ‘module Data.Enumerator.Internal’ and ‘Iteratee’
+
+lib/Data/Enumerator.hs:63:11: Warning:
+    ‘Enumerator’ is exported by ‘module Data.Enumerator.Internal’ and ‘Enumerator’
+
+lib/Data/Enumerator.hs:63:11: Warning:
+    ‘Enumeratee’ is exported by ‘module Data.Enumerator.Internal’ and ‘Enumeratee’
+
+lib/Data/Enumerator.hs:63:11: Warning:
+    ‘>>==’ is exported by ‘module Data.Enumerator.Internal’ and ‘(>>==)’
+
+lib/Data/Enumerator.hs:63:11: Warning:
+    ‘==<<’ is exported by ‘module Data.Enumerator.Internal’ and ‘(==<<)’
+
+lib/Data/Enumerator.hs:63:11: Warning:
+    ‘$$’ is exported by ‘module Data.Enumerator.Internal’ and ‘($$)’
+
+lib/Data/Enumerator.hs:63:11: Warning:
+    ‘>==>’ is exported by ‘module Data.Enumerator.Internal’ and ‘(>==>)’
+
+lib/Data/Enumerator.hs:63:11: Warning:
+    ‘<==<’ is exported by ‘module Data.Enumerator.Internal’ and ‘(<==<)’
+
+lib/Data/Enumerator.hs:64:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:65:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:66:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:67:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:68:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:69:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:70:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:71:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:72:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:73:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:74:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:100:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:101:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:102:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:103:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:104:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:142:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:143:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:144:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:145:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:146:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:147:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:148:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:149:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:150:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:151:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:152:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:153:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:154:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:155:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:156:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:157:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:158:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:159:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:160:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:161:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:162:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:163:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:164:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:172:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:173:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:174:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:175:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:176:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:177:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:178:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:179:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:191:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:192:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:193:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:194:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:232:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:233:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:234:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:235:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:236:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:276:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:277:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:278:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:279:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:280:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:340:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:341:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:342:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:343:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:344:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:350:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:351:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:359:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:360:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:361:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:362:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:371:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:372:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:373:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:374:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:375:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:381:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:382:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:383:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:391:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:392:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:393:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:394:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:401:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:402:1: Warning: Tab character
+
+lib/Data/Enumerator.hs:403:1: Warning: Tab character
+[ 6 of 10] Compiling Data.Enumerator.List ( lib/Data/Enumerator/List.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Data/Enumerator/List.o )
+
+lib/Data/Enumerator/List.hs:17:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:18:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:19:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:20:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:21:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:22:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:23:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:24:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:25:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:26:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:27:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:28:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:29:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:30:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:31:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:32:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:33:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:34:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:35:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:36:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:37:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:38:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:39:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:40:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:41:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:42:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:43:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:44:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:45:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:46:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:47:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:48:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:49:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:50:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:51:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:52:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:53:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:54:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:55:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:56:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:57:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:58:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:59:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:60:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:61:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:62:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:63:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:64:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:65:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:66:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:67:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:68:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:69:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:70:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:71:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:72:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:73:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:74:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:75:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:76:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:77:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:78:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:79:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:80:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:81:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:82:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:83:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:84:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:85:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:92:1: Warning:
+    The import of ‘Data.Monoid’ is redundant
+      except perhaps to import instances from ‘Data.Monoid’
+    To import instances alone, use: import Data.Monoid()
+
+lib/Data/Enumerator/List.hs:105:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:106:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:107:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:108:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:109:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:118:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:119:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:120:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:121:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:122:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:123:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:133:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:134:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:144:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:145:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:146:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:147:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:156:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:157:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:158:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:159:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:160:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:161:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:162:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:163:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:202:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:203:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:204:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:205:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:206:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:207:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:208:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:215:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:216:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:217:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:218:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:219:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:220:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:221:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:222:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:235:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:236:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:254:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:255:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:256:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:272:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:273:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:282:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:283:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:284:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:285:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:286:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:305:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:306:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:307:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:308:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:333:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:334:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:335:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:336:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:337:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:338:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:339:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:347:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:348:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:349:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:350:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:351:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:358:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:359:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:360:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:373:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:374:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:375:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:376:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:377:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:378:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:379:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:380:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:381:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:382:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:383:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:384:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:385:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:386:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:387:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:388:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:389:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:390:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:391:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:392:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:393:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:394:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:395:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:396:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:397:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:398:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:399:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:413:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:414:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:430:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:431:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:448:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:449:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:467:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:468:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:487:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:488:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:504:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:505:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:522:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:523:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:541:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:542:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:561:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:562:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:582:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:583:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:604:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:605:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:614:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:615:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:616:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:624:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:625:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:633:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:634:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:635:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:636:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:637:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:638:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:646:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:647:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:648:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:649:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:658:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:659:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:660:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:661:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:662:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:672:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:673:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:674:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:675:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:676:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:677:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:678:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:679:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:680:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:690:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:691:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:692:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:693:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:694:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:702:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:703:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:704:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:715:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:716:1: Warning: Tab character
+
+lib/Data/Enumerator/List.hs:717:1: Warning: Tab character
+[ 7 of 10] Compiling Data.Enumerator.Binary ( lib/Data/Enumerator/Binary.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Data/Enumerator/Binary.o )
+
+lib/Data/Enumerator/Binary.hs:22:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:23:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:24:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:25:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:26:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:27:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:28:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:29:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:30:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:31:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:32:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:33:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:34:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:35:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:36:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:37:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:38:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:39:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:40:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:41:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:42:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:43:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:44:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:45:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:46:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:47:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:48:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:49:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:50:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:51:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:52:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:53:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:54:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:55:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:56:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:57:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:58:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:59:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:60:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:61:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:62:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:63:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:64:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:65:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:66:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:67:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:68:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:69:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:70:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:71:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:72:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:73:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:74:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:75:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:76:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:77:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:78:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:79:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:80:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:81:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:82:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:83:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:84:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:85:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:86:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:87:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:88:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:89:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:90:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:91:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:92:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:93:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:94:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:95:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:96:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:106:1: Warning:
+    The import of ‘Data.Monoid’ is redundant
+      except perhaps to import instances from ‘Data.Monoid’
+    To import instances alone, use: import Data.Monoid()
+
+lib/Data/Enumerator/Binary.hs:140:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:141:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:151:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:152:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:153:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:154:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:190:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:191:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:192:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:193:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:194:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:195:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:196:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:197:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:205:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:206:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:207:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:208:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:209:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:210:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:211:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:212:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:213:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:220:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:221:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:222:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:223:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:224:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:225:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:226:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:227:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:228:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:229:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:244:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:245:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:262:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:263:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:264:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:324:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:325:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:326:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:327:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:328:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:329:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:330:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:331:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:332:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:333:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:341:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:342:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:343:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:344:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:345:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:346:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:347:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:348:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:355:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:356:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:357:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:358:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:359:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:372:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:373:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:374:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:375:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:376:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:377:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:378:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:379:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:380:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:381:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:382:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:383:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:384:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:385:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:386:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:387:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:388:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:389:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:390:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:391:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:392:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:393:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:394:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:395:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:396:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:397:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:398:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:399:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:400:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:401:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:415:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:416:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:432:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:433:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:450:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:451:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:469:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:470:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:489:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:490:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:506:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:507:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:524:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:525:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:543:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:544:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:563:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:564:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:584:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:585:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:606:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:607:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:616:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:617:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:618:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:619:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:627:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:628:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:636:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:637:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:638:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:639:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:640:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:641:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:642:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:650:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:651:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:652:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:653:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:654:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:655:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:664:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:665:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:666:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:667:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:668:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:669:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:670:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:680:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:681:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:682:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:683:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:684:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:685:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:686:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:687:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:688:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:689:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:690:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:700:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:701:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:702:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:703:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:704:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:705:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:706:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:707:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:715:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:716:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:717:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:718:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:719:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:720:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:721:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:721:25: Warning:
+    This binding for ‘eof’ shadows the existing binding
+      bound at lib/Data/Enumerator/Binary.hs:716:29
+
+lib/Data/Enumerator/Binary.hs:722:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:723:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:724:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:725:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:745:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:746:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:747:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:748:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:749:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:750:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:779:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:780:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:781:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:782:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:783:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:784:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:785:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:786:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:787:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:788:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:788:17: Warning:
+    This binding for ‘rem’ shadows the existing binding
+      imported from ‘Prelude’ at lib/Data/Enumerator/Binary.hs:98:1-92
+      (and originally defined in ‘GHC.Real’)
+
+lib/Data/Enumerator/Binary.hs:789:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:790:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:791:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:792:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:793:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:794:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:795:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:796:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:797:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:801:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:802:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:803:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:804:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:805:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:806:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:807:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:808:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:826:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:827:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:828:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:841:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:842:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:843:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:844:1: Warning: Tab character
+
+lib/Data/Enumerator/Binary.hs:845:1: Warning: Tab character
+[ 8 of 10] Compiling Data.Enumerator.IO ( lib/Data/Enumerator/IO.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Data/Enumerator/IO.o )
+
+lib/Data/Enumerator/IO.hs:13:1: Warning: Tab character
+
+lib/Data/Enumerator/IO.hs:14:1: Warning: Tab character
+
+lib/Data/Enumerator/IO.hs:15:1: Warning: Tab character
+
+lib/Data/Enumerator/IO.hs:16:1: Warning: Tab character
+
+lib/Data/Enumerator/IO.hs:17:1: Warning: Tab character
+[ 9 of 10] Compiling Data.Enumerator.Text ( lib/Data/Enumerator/Text.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Data/Enumerator/Text.o )
+
+lib/Data/Enumerator/Text.hs:24:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:25:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:26:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:27:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:28:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:29:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:30:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:31:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:32:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:33:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:34:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:35:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:36:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:37:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:38:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:39:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:40:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:41:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:42:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:43:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:44:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:45:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:46:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:47:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:48:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:49:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:50:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:51:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:52:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:53:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:54:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:55:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:56:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:57:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:58:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:59:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:60:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:61:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:62:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:63:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:64:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:65:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:66:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:67:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:68:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:69:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:70:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:71:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:72:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:73:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:74:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:75:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:76:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:77:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:78:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:79:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:80:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:81:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:82:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:83:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:84:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:85:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:86:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:87:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:88:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:89:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:90:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:91:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:92:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:93:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:94:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:95:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:96:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:97:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:98:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:99:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:100:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:101:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:102:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:103:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:104:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:105:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:106:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:107:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:108:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:109:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:125:1: Warning:
+    The import of ‘Data.Monoid’ is redundant
+      except perhaps to import instances from ‘Data.Monoid’
+    To import instances alone, use: import Data.Monoid()
+
+lib/Data/Enumerator/Text.hs:164:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:165:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:175:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:176:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:177:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:178:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:214:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:215:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:216:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:217:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:218:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:219:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:220:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:221:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:229:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:230:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:231:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:232:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:233:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:234:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:235:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:236:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:237:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:244:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:245:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:246:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:247:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:248:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:249:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:250:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:251:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:252:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:253:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:268:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:269:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:286:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:287:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:288:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:347:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:348:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:349:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:350:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:351:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:352:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:353:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:354:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:355:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:356:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:364:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:365:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:366:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:367:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:368:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:369:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:370:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:371:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:378:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:379:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:380:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:381:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:382:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:395:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:396:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:397:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:398:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:399:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:400:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:401:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:402:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:403:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:404:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:405:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:406:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:407:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:408:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:409:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:410:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:411:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:412:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:413:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:414:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:415:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:416:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:417:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:418:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:419:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:420:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:421:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:422:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:423:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:424:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:438:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:439:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:455:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:456:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:473:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:474:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:492:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:493:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:512:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:513:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:529:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:530:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:547:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:548:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:566:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:567:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:586:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:587:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:607:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:608:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:629:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:630:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:639:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:640:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:641:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:642:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:650:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:651:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:659:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:660:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:661:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:662:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:663:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:664:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:665:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:673:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:674:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:675:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:676:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:677:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:678:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:687:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:688:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:689:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:690:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:691:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:692:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:693:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:703:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:704:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:705:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:706:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:707:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:708:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:709:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:710:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:711:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:712:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:713:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:723:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:724:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:725:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:726:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:727:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:728:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:729:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:730:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:738:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:739:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:740:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:741:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:742:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:743:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:744:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:744:25: Warning:
+    This binding for ‘eof’ shadows the existing binding
+      bound at lib/Data/Enumerator/Text.hs:739:29
+
+lib/Data/Enumerator/Text.hs:745:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:746:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:747:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:748:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:776:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:777:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:778:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:779:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:784:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:788:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:789:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:790:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:791:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:792:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:793:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:794:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:795:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:796:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:797:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:798:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:819:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:820:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:821:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:822:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:836:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:837:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:838:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:839:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:840:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:844:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:845:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:846:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:847:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:848:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:849:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:850:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:851:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:852:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:853:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:856:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:857:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:866:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:867:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:868:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:869:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:870:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:871:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:872:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:873:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:874:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:875:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:876:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:877:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:878:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:879:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:880:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:881:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:882:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:883:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:893:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:894:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:895:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:896:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:897:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:898:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:899:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:900:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:901:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:902:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:903:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:904:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:905:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:906:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:907:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:908:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:909:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:910:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:911:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:912:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:913:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:918:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:919:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:924:13: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:925:13: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:927:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:928:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:929:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:930:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:931:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:932:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:933:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:934:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:935:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:936:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:937:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:938:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:939:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:943:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:944:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:945:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:946:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:947:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:948:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:949:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:950:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:951:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:952:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:953:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:954:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:955:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:956:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:957:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:958:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:959:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:960:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:961:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:962:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:963:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:964:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:965:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:966:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:967:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:968:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:969:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:970:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:974:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:975:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:976:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:977:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:978:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:979:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:980:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:981:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:982:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:983:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:984:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:985:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:986:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:987:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:988:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:989:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:990:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:991:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:992:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:993:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:994:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:995:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:999:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1000:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1001:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1002:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1003:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1004:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1005:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1006:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1007:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1008:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1009:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1010:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1011:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1012:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1013:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1014:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1015:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1016:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1017:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1018:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1019:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1020:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1024:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1025:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1026:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1027:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1028:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1032:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1033:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1034:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1035:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1036:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1040:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1041:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1042:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1043:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1044:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1050:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1051:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1052:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1053:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1054:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1055:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1056:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1057:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1061:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1062:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1063:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1064:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1065:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1066:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1067:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1068:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1069:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1070:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1071:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1072:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1073:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1074:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1078:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1079:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1080:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1081:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1082:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1083:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1084:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1085:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1086:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1090:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1091:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1092:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1093:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1094:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1098:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1099:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1100:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1101:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1102:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1109:1: Warning: Tab character
+
+lib/Data/Enumerator/Text.hs:1110:1: Warning: Tab character
+[10 of 10] Compiling Data.Enumerator.Trans ( lib/Data/Enumerator/Trans.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Data/Enumerator/Trans.o )
+
+lib/Data/Enumerator/Trans.hs:18:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:19:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:20:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:21:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:22:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:23:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:24:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:25:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:26:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:27:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:28:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:29:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:30:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:31:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:32:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:33:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:34:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:35:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:36:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:37:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:38:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:39:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:40:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:41:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:42:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:43:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:44:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:45:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:46:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:47:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:48:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:49:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:50:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:51:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:52:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:53:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:54:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:55:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:56:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:57:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:59:1: Warning:
+    The import of ‘Data.Monoid’ is redundant
+      except perhaps to import instances from ‘Data.Monoid’
+    To import instances alone, use: import Data.Monoid()
+
+lib/Data/Enumerator/Trans.hs:62:1: Warning:
+    Module ‘Control.Monad.Trans.Error’ is deprecated:
+      Use Control.Monad.Trans.Except instead
+
+lib/Data/Enumerator/Trans.hs:78:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:79:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:80:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:81:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:82:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:89:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:90:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:91:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:92:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:93:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:94:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:95:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:100:15: Warning:
+    In the use of type constructor or class ‘Error’
+    (imported from Control.Monad.Trans.Error):
+    Deprecated: "Use Control.Monad.Trans.Except instead"
+
+lib/Data/Enumerator/Trans.hs:101:26: Warning:
+    In the use of type constructor or class ‘ErrorT’
+    (imported from Control.Monad.Trans.Error):
+    Deprecated: "Use Control.Monad.Trans.Except instead"
+
+lib/Data/Enumerator/Trans.hs:103:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:103:18: Warning:
+    In the use of ‘runErrorT’
+    (imported from Control.Monad.Trans.Error):
+    Deprecated: "Use Control.Monad.Trans.Except instead"
+
+lib/Data/Enumerator/Trans.hs:104:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:105:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:106:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:107:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:108:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:109:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:116:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:117:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:118:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:119:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:120:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:127:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:128:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:129:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:130:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:131:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:144:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:145:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:146:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:147:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:148:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:162:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:163:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:164:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:165:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:166:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:167:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:182:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:183:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:184:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:185:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:186:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:187:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:202:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:203:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:204:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:205:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:206:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:207:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:229:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:230:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:231:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:232:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:233:1: Warning: Tab character
+
+lib/Data/Enumerator/Trans.hs:234:1: Warning: Tab character
+In-place registering enumerator-0.4.20...
+Installing library in
+/home/korolr/.stack/snapshots/x86_64-linux-ncurses6/lts-6.10/7.10.3/lib/x86_64-linux-ghc-7.10.3/enumerator-0.4.20-LyDnEQ6F69uDubH559Giin
+Registering enumerator-0.4.20...

@@ -1,0 +1,21 @@
+Configuring connection-0.2.5...
+Building connection-0.2.5...
+Preprocessing library connection-0.2.5...
+[1 of 2] Compiling Network.Connection.Types ( Network/Connection/Types.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Network/Connection/Types.o )
+[2 of 2] Compiling Network.Connection ( Network/Connection.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Network/Connection.o )
+
+Network/Connection.hs:47:1: Warning:
+    The import of ‘Control.Applicative’ is redundant
+      except perhaps to import instances from ‘Control.Applicative’
+    To import instances alone, use: import Control.Applicative()
+
+Network/Connection.hs:83:1: Warning:
+    Defined but not used: ‘connectionSessionManager’
+
+Network/Connection.hs:264:21: Warning:
+    In the use of ‘B.breakByte’ (imported from Data.ByteString):
+    Deprecated: "It is an internal function and should never have been exported. Use 'break (== x)' instead. (There are rewrite rules that handle this special case of 'break'.)"
+In-place registering connection-0.2.5...
+Installing library in
+/home/korolr/.stack/snapshots/x86_64-linux-ncurses6/lts-6.10/7.10.3/lib/x86_64-linux-ghc-7.10.3/connection-0.2.5-296f32XfEtS6y7km4XvaP2
+Registering connection-0.2.5...

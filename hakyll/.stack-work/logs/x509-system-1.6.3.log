@@ -1,0 +1,33 @@
+Configuring x509-system-1.6.3...
+Building x509-system-1.6.3...
+Preprocessing library x509-system-1.6.3...
+[1 of 3] Compiling System.X509.MacOS ( System/X509/MacOS.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/System/X509/MacOS.o )
+
+System/X509/MacOS.hs:2:1: Warning: Tab character
+
+System/X509/MacOS.hs:3:1: Warning: Tab character
+
+System/X509/MacOS.hs:8:1: Warning:
+    The import of ‘Control.Applicative’ is redundant
+      except perhaps to import instances from ‘Control.Applicative’
+    To import instances alone, use: import Control.Applicative()
+[2 of 3] Compiling System.X509.Unix ( System/X509/Unix.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/System/X509/Unix.o )
+
+System/X509/Unix.hs:30:1: Warning:
+    The import of ‘Control.Applicative’ is redundant
+      except perhaps to import instances from ‘Control.Applicative’
+    To import instances alone, use: import Control.Applicative()
+
+System/X509/Unix.hs:36:1: Warning:
+    The import of ‘Data.Monoid’ is redundant
+      except perhaps to import instances from ‘Data.Monoid’
+    To import instances alone, use: import Data.Monoid()
+[3 of 3] Compiling System.X509      ( System/X509.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/System/X509.o )
+
+System/X509.hs:10:1: Warning: Tab character
+
+System/X509.hs:11:1: Warning: Tab character
+In-place registering x509-system-1.6.3...
+Installing library in
+/home/korolr/.stack/snapshots/x86_64-linux-ncurses6/lts-6.10/7.10.3/lib/x86_64-linux-ghc-7.10.3/x509-system-1.6.3-Gn4zNhFYld20YfL38sp8Up
+Registering x509-system-1.6.3...

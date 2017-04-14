@@ -1,0 +1,58 @@
+Configuring HTTP-4000.3.3...
+Building HTTP-4000.3.3...
+Preprocessing library HTTP-4000.3.3...
+[ 1 of 18] Compiling Network.HTTP.MD5Aux ( Network/HTTP/MD5Aux.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Network/HTTP/MD5Aux.o )
+[ 2 of 18] Compiling Paths_HTTP       ( .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/autogen/Paths_HTTP.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Paths_HTTP.o )
+[ 3 of 18] Compiling Network.HTTP.Base64 ( Network/HTTP/Base64.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Network/HTTP/Base64.o )
+[ 4 of 18] Compiling Network.Stream   ( Network/Stream.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Network/Stream.o )
+
+Network/Stream.hs:35:1: Warning:
+    Module ‘Control.Monad.Error’ is deprecated:
+      Use Control.Monad.Except instead
+
+Network/Stream.hs:44:10: Warning:
+    In the use of type constructor or class ‘Error’
+    (imported from Control.Monad.Error, but defined in transformers-0.4.2.0:Control.Monad.Trans.Error):
+    Deprecated: "Use Control.Monad.Trans.Except instead"
+
+Network/Stream.hs:44:10: Warning:
+    In the use of type constructor or class ‘Error’
+    (imported from Control.Monad.Error, but defined in transformers-0.4.2.0:Control.Monad.Trans.Error):
+    Deprecated: "Use Control.Monad.Trans.Except instead"
+
+Network/Stream.hs:45:11: Warning:
+    In the use of ‘strMsg’
+    (imported from Control.Monad.Error, but defined in transformers-0.4.2.0:Control.Monad.Trans.Error):
+    Deprecated: "Use Control.Monad.Trans.Except instead"
+
+Network/Stream.hs:52:24: Warning:
+    In the use of ‘strMsg’
+    (imported from Control.Monad.Error, but defined in transformers-0.4.2.0:Control.Monad.Trans.Error):
+    Deprecated: "Use Control.Monad.Trans.Except instead"
+[ 5 of 18] Compiling Network.HTTP.Utils ( Network/HTTP/Utils.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Network/HTTP/Utils.o )
+[ 6 of 18] Compiling Network.HTTP.Headers ( Network/HTTP/Headers.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Network/HTTP/Headers.o )
+[ 7 of 18] Compiling Network.HTTP.Cookie ( Network/HTTP/Cookie.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Network/HTTP/Cookie.o )
+[ 8 of 18] Compiling Network.BufferType ( Network/BufferType.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Network/BufferType.o )
+[ 9 of 18] Compiling Network.HTTP.Base ( Network/HTTP/Base.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Network/HTTP/Base.o )
+
+Network/HTTP/Base.hs:110:1: Warning:
+    Module ‘Control.Monad.Error’ is deprecated:
+      Use Control.Monad.Except instead
+[10 of 18] Compiling Network.TCP      ( Network/TCP.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Network/TCP.o )
+[11 of 18] Compiling Network.StreamDebugger ( Network/StreamDebugger.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Network/StreamDebugger.o )
+[12 of 18] Compiling Network.StreamSocket ( Network/StreamSocket.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Network/StreamSocket.o )
+[13 of 18] Compiling Network.HTTP.Auth ( Network/HTTP/Auth.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Network/HTTP/Auth.o )
+[14 of 18] Compiling Network.HTTP.Proxy ( Network/HTTP/Proxy.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Network/HTTP/Proxy.o )
+[15 of 18] Compiling Network.HTTP.HandleStream ( Network/HTTP/HandleStream.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Network/HTTP/HandleStream.o )
+[16 of 18] Compiling Network.HTTP     ( Network/HTTP.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Network/HTTP.o )
+[17 of 18] Compiling Network.HTTP.Stream ( Network/HTTP/Stream.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Network/HTTP/Stream.o )
+[18 of 18] Compiling Network.Browser  ( Network/Browser.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Network/Browser.o )
+
+Network/Browser.hs:140:1: Warning:
+    The import of ‘Control.Applicative’ is redundant
+      except perhaps to import instances from ‘Control.Applicative’
+    To import instances alone, use: import Control.Applicative()
+In-place registering HTTP-4000.3.3...
+Installing library in
+/home/korolr/.stack/snapshots/x86_64-linux-ncurses6/lts-6.10/7.10.3/lib/x86_64-linux-ghc-7.10.3/HTTP-4000.3.3-Dtoh1gR9XXG1Sa7r2sjCEQ
+Registering HTTP-4000.3.3...

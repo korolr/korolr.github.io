@@ -1,0 +1,30 @@
+Configuring http-types-0.9.1...
+Building http-types-0.9.1...
+Preprocessing library http-types-0.9.1...
+[1 of 7] Compiling Network.HTTP.Types.Version ( Network/HTTP/Types/Version.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Network/HTTP/Types/Version.o )
+[2 of 7] Compiling Network.HTTP.Types.URI ( Network/HTTP/Types/URI.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Network/HTTP/Types/URI.o )
+
+Network/HTTP/Types/URI.hs:148:26: Warning:
+    In the use of ‘B.breakByte’ (imported from Data.ByteString):
+    Deprecated: "It is an internal function and should never have been exported. Use 'break (== x)' instead. (There are rewrite rules that handle this special case of 'break'.)"
+
+Network/HTTP/Types/URI.hs:283:22: Warning:
+    In the use of ‘B.breakByte’ (imported from Data.ByteString):
+    Deprecated: "It is an internal function and should never have been exported. Use 'break (== x)' instead. (There are rewrite rules that handle this special case of 'break'.)"
+
+Network/HTTP/Types/URI.hs:313:20: Warning:
+    In the use of ‘B.breakByte’ (imported from Data.ByteString):
+    Deprecated: "It is an internal function and should never have been exported. Use 'break (== x)' instead. (There are rewrite rules that handle this special case of 'break'.)"
+
+Network/HTTP/Types/URI.hs:325:18: Warning:
+    In the use of ‘B.breakByte’ (imported from Data.ByteString):
+    Deprecated: "It is an internal function and should never have been exported. Use 'break (== x)' instead. (There are rewrite rules that handle this special case of 'break'.)"
+[3 of 7] Compiling Network.HTTP.Types.Status ( Network/HTTP/Types/Status.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Network/HTTP/Types/Status.o )
+[4 of 7] Compiling Network.HTTP.Types.QueryLike ( Network/HTTP/Types/QueryLike.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Network/HTTP/Types/QueryLike.o )
+[5 of 7] Compiling Network.HTTP.Types.Method ( Network/HTTP/Types/Method.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Network/HTTP/Types/Method.o )
+[6 of 7] Compiling Network.HTTP.Types.Header ( Network/HTTP/Types/Header.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Network/HTTP/Types/Header.o )
+[7 of 7] Compiling Network.HTTP.Types ( Network/HTTP/Types.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Network/HTTP/Types.o )
+In-place registering http-types-0.9.1...
+Installing library in
+/home/korolr/.stack/snapshots/x86_64-linux-ncurses6/lts-6.10/7.10.3/lib/x86_64-linux-ghc-7.10.3/http-types-0.9.1-LVMqo0EufsBKPzTVSJA3lm
+Registering http-types-0.9.1...

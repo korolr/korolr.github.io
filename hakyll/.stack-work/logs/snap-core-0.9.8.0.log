@@ -1,0 +1,111 @@
+Configuring snap-core-0.9.8.0...
+Building snap-core-0.9.8.0...
+Preprocessing library snap-core-0.9.8.0...
+[ 1 of 22] Compiling Snap.Util.Readable ( src/Snap/Util/Readable.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Snap/Util/Readable.o )
+[ 2 of 22] Compiling Snap.Internal.Iteratee.BoyerMooreHorspool ( src/Snap/Internal/Iteratee/BoyerMooreHorspool.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Snap/Internal/Iteratee/BoyerMooreHorspool.o )
+[ 3 of 22] Compiling Snap.Internal.Parsing.FastSet ( src/Snap/Internal/Parsing/FastSet.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Snap/Internal/Parsing/FastSet.o )
+[ 4 of 22] Compiling Snap.Internal.Debug ( src/Snap/Internal/Debug.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Snap/Internal/Debug.o )
+[ 5 of 22] Compiling Snap.Types.Headers ( src/Snap/Types/Headers.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Snap/Types/Headers.o )
+[ 6 of 22] Compiling Snap.Iteratee    ( src/Snap/Iteratee.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Snap/Iteratee.o )
+
+src/Snap/Iteratee.hs:124:1: Warning:
+    The import of ‘Data.Monoid’ is redundant
+      except perhaps to import instances from ‘Data.Monoid’
+    To import instances alone, use: import Data.Monoid()
+[ 7 of 22] Compiling Snap.Internal.Iteratee.Debug ( src/Snap/Internal/Iteratee/Debug.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Snap/Internal/Iteratee/Debug.o )
+[ 8 of 22] Compiling Snap.Internal.Http.Types ( src/Snap/Internal/Http/Types.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Snap/Internal/Http/Types.o )
+[ 9 of 22] Compiling Snap.Internal.Parsing ( src/Snap/Internal/Parsing.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Snap/Internal/Parsing.o )
+
+src/Snap/Internal/Parsing.hs:13:1: Warning:
+    Module ‘Data.Attoparsec.Char8’ is deprecated:
+      This module will be removed in the next major release.
+[10 of 22] Compiling Snap.Internal.Test.Assertions ( src/Snap/Internal/Test/Assertions.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Snap/Internal/Test/Assertions.o )
+
+src/Snap/Internal/Test/Assertions.hs:9:1: Warning:
+    The import of ‘Data.Monoid’ is redundant
+      except perhaps to import instances from ‘Data.Monoid’
+    To import instances alone, use: import Data.Monoid()
+[11 of 22] Compiling Snap.Internal.Exceptions ( src/Snap/Internal/Exceptions.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Snap/Internal/Exceptions.o )
+[12 of 22] Compiling Snap.Internal.Types ( src/Snap/Internal/Types.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Snap/Internal/Types.o )
+[13 of 22] Compiling Snap.Internal.Instances ( src/Snap/Internal/Instances.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Snap/Internal/Instances.o )
+
+src/Snap/Internal/Instances.hs:10:1: Warning:
+    Module ‘Control.Monad.Error’ is deprecated:
+      Use Control.Monad.Except instead
+
+src/Snap/Internal/Instances.hs:45:24: Warning:
+    In the use of type constructor or class ‘Error’
+    (imported from Control.Monad.Error, but defined in transformers-0.4.2.0:Control.Monad.Trans.Error):
+    Deprecated: "Use Control.Monad.Trans.Except instead"
+
+src/Snap/Internal/Instances.hs:45:47: Warning:
+    In the use of type constructor or class ‘ErrorT’
+    (imported from Control.Monad.Error, but defined in transformers-0.4.2.0:Control.Monad.Trans.Error):
+    Deprecated: "Use Control.Monad.Trans.Except instead"
+[14 of 22] Compiling Snap.Internal.Routing ( src/Snap/Internal/Routing.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Snap/Internal/Routing.o )
+
+src/Snap/Internal/Routing.hs:12:1: Warning:
+    The import of ‘Data.Monoid’ is redundant
+      except perhaps to import instances from ‘Data.Monoid’
+    To import instances alone, use: import Data.Monoid()
+[15 of 22] Compiling Snap.Core        ( src/Snap/Core.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Snap/Core.o )
+[16 of 22] Compiling Snap.Types       ( src/Snap/Types.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Snap/Types.o )
+[17 of 22] Compiling Snap.Internal.Test.RequestBuilder ( src/Snap/Internal/Test/RequestBuilder.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Snap/Internal/Test/RequestBuilder.o )
+
+src/Snap/Internal/Test/RequestBuilder.hs:39:1: Warning:
+    The import of ‘Control.Applicative’ is redundant
+      except perhaps to import instances from ‘Control.Applicative’
+    To import instances alone, use: import Control.Applicative()
+
+src/Snap/Internal/Test/RequestBuilder.hs:49:1: Warning:
+    The import of ‘Data.Monoid’ is redundant
+      except perhaps to import instances from ‘Data.Monoid’
+    To import instances alone, use: import Data.Monoid()
+[18 of 22] Compiling Snap.Test        ( src/Snap/Test.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Snap/Test.o )
+[19 of 22] Compiling Snap.Util.FileServe ( src/Snap/Util/FileServe.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Snap/Util/FileServe.o )
+
+src/Snap/Util/FileServe.hs:34:1: Warning:
+    Module ‘Data.Attoparsec.Char8’ is deprecated:
+      This module will be removed in the next major release.
+[20 of 22] Compiling Snap.Util.FileUploads ( src/Snap/Util/FileUploads.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Snap/Util/FileUploads.o )
+
+src/Snap/Util/FileUploads.hs:76:1: Warning:
+    Module ‘Data.Attoparsec.Char8’ is deprecated:
+      This module will be removed in the next major release.
+
+src/Snap/Util/FileUploads.hs:77:1: Warning:
+    Module ‘Data.Attoparsec.Char8’ is deprecated:
+      This module will be removed in the next major release.
+
+src/Snap/Util/FileUploads.hs:889:5: Warning:
+    In the use of ‘addMVarFinalizer’
+    (imported from Control.Concurrent.MVar):
+    Deprecated: "use 'mkWeakMVar' instead"
+[21 of 22] Compiling Snap.Util.GZip   ( src/Snap/Util/GZip.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Snap/Util/GZip.o )
+
+src/Snap/Util/GZip.hs:19:1: Warning:
+    Module ‘Data.Attoparsec.Char8’ is deprecated:
+      This module will be removed in the next major release.
+[22 of 22] Compiling Snap.Util.Proxy  ( src/Snap/Util/Proxy.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Snap/Util/Proxy.o )
+
+In file included from /usr/include/time.h:25:0:
+    0,
+                     from cbits/timefuncs.c:3:
+
+/usr/include/features.h:180:3:
+     предупреждение: #warning "_BSD_SOURCE and _SVID_SOURCE are deprecated, use _DEFAULT_SOURCE" [-Wcpp]
+     # warning "_BSD_SOURCE and _SVID_SOURCE are deprecated, use _DEFAULT_SOURCE"
+       ^~~~~~~
+
+In file included from /usr/include/time.h:25:0:
+    0,
+                     from cbits/timefuncs.c:3:
+
+/usr/include/features.h:180:3:
+     предупреждение: #warning "_BSD_SOURCE and _SVID_SOURCE are deprecated, use _DEFAULT_SOURCE" [-Wcpp]
+     # warning "_BSD_SOURCE and _SVID_SOURCE are deprecated, use _DEFAULT_SOURCE"
+       ^~~~~~~
+In-place registering snap-core-0.9.8.0...
+Installing library in
+/home/korolr/.stack/snapshots/x86_64-linux-ncurses6/lts-6.10/7.10.3/lib/x86_64-linux-ghc-7.10.3/snap-core-0.9.8.0-2hcESbVa8AuI5wR4OIazaI
+Registering snap-core-0.9.8.0...

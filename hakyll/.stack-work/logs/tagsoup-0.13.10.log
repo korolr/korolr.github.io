@@ -1,0 +1,20 @@
+Configuring tagsoup-0.13.10...
+Building tagsoup-0.13.10...
+Preprocessing library tagsoup-0.13.10...
+[ 1 of 13] Compiling Text.HTML.TagSoup.Entity ( Text/HTML/TagSoup/Entity.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Text/HTML/TagSoup/Entity.o )
+[ 2 of 13] Compiling Text.StringLike  ( Text/StringLike.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Text/StringLike.o )
+[ 3 of 13] Compiling Text.HTML.TagSoup.Type ( Text/HTML/TagSoup/Type.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Text/HTML/TagSoup/Type.o )
+[ 4 of 13] Compiling Text.HTML.TagSoup.Match ( Text/HTML/TagSoup/Match.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Text/HTML/TagSoup/Match.o )
+[ 5 of 13] Compiling Text.HTML.TagSoup.Options ( Text/HTML/TagSoup/Options.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Text/HTML/TagSoup/Options.o )
+[ 6 of 13] Compiling Text.HTML.TagSoup.Implementation ( Text/HTML/TagSoup/Implementation.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Text/HTML/TagSoup/Implementation.o )
+[ 7 of 13] Compiling Text.HTML.TagSoup.Specification ( Text/HTML/TagSoup/Specification.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Text/HTML/TagSoup/Specification.o )
+[ 8 of 13] Compiling Text.HTML.TagSoup.Manual ( Text/HTML/TagSoup/Manual.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Text/HTML/TagSoup/Manual.o )
+[ 9 of 13] Compiling Text.HTML.TagSoup.Generated ( Text/HTML/TagSoup/Generated.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Text/HTML/TagSoup/Generated.o )
+[10 of 13] Compiling Text.HTML.TagSoup.Render ( Text/HTML/TagSoup/Render.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Text/HTML/TagSoup/Render.o )
+[11 of 13] Compiling Text.HTML.TagSoup.Parser ( Text/HTML/TagSoup/Parser.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Text/HTML/TagSoup/Parser.o )
+[12 of 13] Compiling Text.HTML.TagSoup ( Text/HTML/TagSoup.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Text/HTML/TagSoup.o )
+[13 of 13] Compiling Text.HTML.TagSoup.Tree ( Text/HTML/TagSoup/Tree.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Text/HTML/TagSoup/Tree.o )
+In-place registering tagsoup-0.13.10...
+Installing library in
+/home/korolr/.stack/snapshots/x86_64-linux-ncurses6/lts-6.10/7.10.3/lib/x86_64-linux-ghc-7.10.3/tagsoup-0.13.10-3rEkgaaJ74Z8iYKiJ2gVLz
+Registering tagsoup-0.13.10...

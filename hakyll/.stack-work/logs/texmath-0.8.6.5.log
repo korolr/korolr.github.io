@@ -1,0 +1,61 @@
+Configuring texmath-0.8.6.5...
+Building texmath-0.8.6.5...
+Preprocessing library texmath-0.8.6.5...
+[ 1 of 19] Compiling Paths_texmath    ( .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/autogen/Paths_texmath.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Paths_texmath.o )
+[ 2 of 19] Compiling Text.TeXMath.Unicode.ToASCII ( src/Text/TeXMath/Unicode/ToASCII.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Text/TeXMath/Unicode/ToASCII.o )
+[ 3 of 19] Compiling Text.TeXMath.TeX ( src/Text/TeXMath/TeX.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Text/TeXMath/TeX.o )
+[ 4 of 19] Compiling Text.TeXMath.Compat ( src/Text/TeXMath/Compat.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Text/TeXMath/Compat.o )
+[ 5 of 19] Compiling Text.TeXMath.Readers.MathML.EntityMap ( src/Text/TeXMath/Readers/MathML/EntityMap.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Text/TeXMath/Readers/MathML/EntityMap.o )
+[ 6 of 19] Compiling Text.TeXMath.Readers.TeX.Macros ( src/Text/TeXMath/Readers/TeX/Macros.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Text/TeXMath/Readers/TeX/Macros.o )
+[ 7 of 19] Compiling Text.TeXMath.Types ( src/Text/TeXMath/Types.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Text/TeXMath/Types.o )
+[ 8 of 19] Compiling Text.TeXMath.Shared ( src/Text/TeXMath/Shared.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Text/TeXMath/Shared.o )
+
+src/Text/TeXMath/Shared.hs:45:1: Warning:
+    The import of ‘Control.Applicative’ is redundant
+      except perhaps to import instances from ‘Control.Applicative’
+    To import instances alone, use: import Control.Applicative()
+[ 9 of 19] Compiling Text.TeXMath.Unicode.ToUnicode ( src/Text/TeXMath/Unicode/ToUnicode.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Text/TeXMath/Unicode/ToUnicode.o )
+[10 of 19] Compiling Text.TeXMath.Unicode.ToTeX ( src/Text/TeXMath/Unicode/ToTeX.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Text/TeXMath/Unicode/ToTeX.o )
+[11 of 19] Compiling Text.TeXMath.Readers.MathML.MMLDict ( src/Text/TeXMath/Readers/MathML/MMLDict.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Text/TeXMath/Readers/MathML/MMLDict.o )
+
+src/Text/TeXMath/Readers/MathML/MMLDict.hs:28:1: Warning:
+    The import of ‘mconcat’ from module ‘Data.Monoid’ is redundant
+[12 of 19] Compiling Text.TeXMath.Writers.TeX ( src/Text/TeXMath/Writers/TeX.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Text/TeXMath/Writers/TeX.o )
+
+src/Text/TeXMath/Writers/TeX.hs:28:1: Warning:
+    The import of ‘Control.Applicative’ is redundant
+      except perhaps to import instances from ‘Control.Applicative’
+    To import instances alone, use: import Control.Applicative()
+[13 of 19] Compiling Text.TeXMath.Writers.Pandoc ( src/Text/TeXMath/Writers/Pandoc.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Text/TeXMath/Writers/Pandoc.o )
+[14 of 19] Compiling Text.TeXMath.Writers.OMML ( src/Text/TeXMath/Writers/OMML.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Text/TeXMath/Writers/OMML.o )
+[15 of 19] Compiling Text.TeXMath.Writers.MathML ( src/Text/TeXMath/Writers/MathML.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Text/TeXMath/Writers/MathML.o )
+
+src/Text/TeXMath/Writers/MathML.hs:32:1: Warning:
+    The import of ‘Control.Applicative’ is redundant
+      except perhaps to import instances from ‘Control.Applicative’
+    To import instances alone, use: import Control.Applicative()
+[16 of 19] Compiling Text.TeXMath.Readers.OMML ( src/Text/TeXMath/Readers/OMML.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Text/TeXMath/Readers/OMML.o )
+
+src/Text/TeXMath/Readers/OMML.hs:42:1: Warning:
+    The import of ‘Control.Applicative’ is redundant
+      except perhaps to import instances from ‘Control.Applicative’
+    To import instances alone, use: import Control.Applicative()
+[17 of 19] Compiling Text.TeXMath.Readers.MathML ( src/Text/TeXMath/Readers/MathML.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Text/TeXMath/Readers/MathML.o )
+
+src/Text/TeXMath/Readers/MathML.hs:49:1: Warning:
+    The import of ‘<*>, <$>’
+    from module ‘Control.Applicative’ is redundant
+
+src/Text/TeXMath/Readers/MathML.hs:52:1: Warning:
+    The import of ‘mconcat’ from module ‘Data.Monoid’ is redundant
+[18 of 19] Compiling Text.TeXMath.Readers.TeX ( src/Text/TeXMath/Readers/TeX.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Text/TeXMath/Readers/TeX.o )
+
+src/Text/TeXMath/Readers/TeX.hs:35:1: Warning:
+    The import of ‘Control.Applicative’ is redundant
+      except perhaps to import instances from ‘Control.Applicative’
+    To import instances alone, use: import Control.Applicative()
+[19 of 19] Compiling Text.TeXMath     ( src/Text/TeXMath.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Text/TeXMath.o )
+In-place registering texmath-0.8.6.5...
+Installing library in
+/home/korolr/.stack/snapshots/x86_64-linux-ncurses6/lts-6.10/7.10.3/lib/x86_64-linux-ghc-7.10.3/texmath-0.8.6.5-0mgvpdUMSNs9jqRHvG1B54
+Registering texmath-0.8.6.5...

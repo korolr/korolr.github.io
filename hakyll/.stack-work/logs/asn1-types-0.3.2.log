@@ -1,0 +1,17 @@
+Configuring asn1-types-0.3.2...
+Building asn1-types-0.3.2...
+Preprocessing library asn1-types-0.3.2...
+[1 of 6] Compiling Data.ASN1.Types.String ( Data/ASN1/Types/String.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Data/ASN1/Types/String.o )
+
+Data/ASN1/Types/String.hs:154:22: Warning:
+    This binding for ‘b’ shadows the existing binding
+      bound at Data/ASN1/Types/String.hs:151:13
+[2 of 6] Compiling Data.ASN1.Types.Lowlevel ( Data/ASN1/Types/Lowlevel.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Data/ASN1/Types/Lowlevel.o )
+[3 of 6] Compiling Data.ASN1.OID    ( Data/ASN1/OID.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Data/ASN1/OID.o )
+[4 of 6] Compiling Data.ASN1.BitArray ( Data/ASN1/BitArray.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Data/ASN1/BitArray.o )
+[5 of 6] Compiling Data.ASN1.Types  ( Data/ASN1/Types.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Data/ASN1/Types.o )
+[6 of 6] Compiling Data.ASN1.Pretty ( Data/ASN1/Pretty.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Data/ASN1/Pretty.o )
+In-place registering asn1-types-0.3.2...
+Installing library in
+/home/korolr/.stack/snapshots/x86_64-linux-ncurses6/lts-6.10/7.10.3/lib/x86_64-linux-ghc-7.10.3/asn1-types-0.3.2-1wIythtYS1MCLmALwCnyOY
+Registering asn1-types-0.3.2...

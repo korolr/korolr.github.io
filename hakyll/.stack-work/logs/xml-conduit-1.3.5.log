@@ -1,0 +1,106 @@
+Configuring xml-conduit-1.3.5...
+Building xml-conduit-1.3.5...
+Preprocessing library xml-conduit-1.3.5...
+[1 of 7] Compiling Text.XML.Cursor.Generic ( Text/XML/Cursor/Generic.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Text/XML/Cursor/Generic.o )
+[2 of 7] Compiling Text.XML.Stream.Token ( Text/XML/Stream/Token.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Text/XML/Stream/Token.o )
+
+Text/XML/Stream/Token.hs:19:1: Warning:
+    The import of ‘Data.Monoid’ is redundant
+      except perhaps to import instances from ‘Data.Monoid’
+    To import instances alone, use: import Data.Monoid()
+[3 of 7] Compiling Text.XML.Stream.Render ( Text/XML/Stream/Render.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Text/XML/Stream/Render.o )
+
+Text/XML/Stream/Render.hs:32:1: Warning:
+    The import of ‘Control.Monad.Trans.Resource’ is redundant
+      except perhaps to import instances from ‘Control.Monad.Trans.Resource’
+    To import instances alone, use: import Control.Monad.Trans.Resource()
+
+Text/XML/Stream/Render.hs:33:1: Warning:
+    The import of ‘Data.ByteString’ is redundant
+      except perhaps to import instances from ‘Data.ByteString’
+    To import instances alone, use: import Data.ByteString()
+
+Text/XML/Stream/Render.hs:43:1: Warning:
+    The import of ‘Data.Monoid’ is redundant
+      except perhaps to import instances from ‘Data.Monoid’
+    To import instances alone, use: import Data.Monoid()
+
+Text/XML/Stream/Render.hs:57:1: Warning:
+    Top-level binding with no type signature:
+      renderBytes :: forall (m :: * -> *) (base :: * -> *).
+                     (transformers-base-0.4.4:Control.Monad.Base.MonadBase base m,
+                      primitive-0.6.1.0:Control.Monad.Primitive.PrimMonad base) =>
+                     RenderSettings -> ConduitM Event ByteString m ()
+
+Text/XML/Stream/Render.hs:66:1: Warning:
+    Top-level binding with no type signature:
+      renderText :: forall (m :: * -> *) (base :: * -> *).
+                    (transformers-base-0.4.4:Control.Monad.Base.MonadBase base m,
+                     MonadThrow m,
+                     primitive-0.6.1.0:Control.Monad.Primitive.PrimMonad base) =>
+                    RenderSettings -> ConduitM Event Text m ()
+
+Text/XML/Stream/Render.hs:111:18: Warning:
+    This binding for ‘attr’ shadows the existing binding
+      defined at Text/XML/Stream/Render.hs:403:1
+
+Text/XML/Stream/Render.hs:383:25: Warning:
+    This binding for ‘content’ shadows the existing binding
+      defined at Text/XML/Stream/Render.hs:390:1
+[4 of 7] Compiling Text.XML.Stream.Parse ( Text/XML/Stream/Parse.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Text/XML/Stream/Parse.o )
+
+Text/XML/Stream/Parse.hs:154:1: Warning:
+    The import of ‘Applicative, <$>’
+    from module ‘Control.Applicative’ is redundant
+
+Text/XML/Stream/Parse.hs:563:5: Warning:
+    This binding for ‘parseText'’ shadows the existing binding
+      defined at Text/XML/Stream/Parse.hs:359:1
+
+Text/XML/Stream/Parse.hs:710:20: Warning:
+    This binding for ‘attr’ shadows the existing binding
+      defined at Text/XML/Stream/Parse.hs:917:1
+[5 of 7] Compiling Text.XML.Unresolved ( Text/XML/Unresolved.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Text/XML/Unresolved.o )
+
+Text/XML/Unresolved.hs:56:1: Warning:
+    The import of ‘Control.Applicative’ is redundant
+      except perhaps to import instances from ‘Control.Applicative’
+    To import instances alone, use: import Control.Applicative()
+
+Text/XML/Unresolved.hs:130:1: Warning:
+    Top-level binding with no type signature:
+      renderBytes :: forall a (m :: * -> *) (base :: * -> *).
+                     (transformers-base-0.4.4:Control.Monad.Base.MonadBase base m,
+                      primitive-0.6.1.0:Control.Monad.Primitive.PrimMonad base) =>
+                     R.RenderSettings -> Document -> ConduitM a ByteString m ()
+
+Text/XML/Unresolved.hs:133:1: Warning:
+    Top-level binding with no type signature:
+      renderText :: forall a (m :: * -> *) (base :: * -> *).
+                    (transformers-base-0.4.4:Control.Monad.Base.MonadBase base m,
+                     MonadThrow m,
+                     primitive-0.6.1.0:Control.Monad.Primitive.PrimMonad base) =>
+                    R.RenderSettings -> Document -> ConduitM a Text m ()
+[6 of 7] Compiling Text.XML         ( Text/XML.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Text/XML.o )
+
+Text/XML.hs:112:1: Warning:
+    The import of ‘Control.Monad.Trans.Resource’ is redundant
+      except perhaps to import instances from ‘Control.Monad.Trans.Resource’
+    To import instances alone, use: import Control.Monad.Trans.Resource()
+
+Text/XML.hs:120:1: Warning:
+    The import of ‘Data.Monoid’ is redundant
+      except perhaps to import instances from ‘Data.Monoid’
+    To import instances alone, use: import Data.Monoid()
+
+Text/XML.hs:285:1: Warning:
+    Top-level binding with no type signature:
+      renderBytes :: forall a (m :: * -> *) (base :: * -> *).
+                     (transformers-base-0.4.4:Control.Monad.Base.MonadBase base m,
+                      primitive-0.6.1.0:Control.Monad.Primitive.PrimMonad base) =>
+                     R.RenderSettings -> Document -> ConduitM a ByteString m ()
+[7 of 7] Compiling Text.XML.Cursor  ( Text/XML/Cursor.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Text/XML/Cursor.o )
+In-place registering xml-conduit-1.3.5...
+Installing library in
+/home/korolr/.stack/snapshots/x86_64-linux-ncurses6/lts-6.10/7.10.3/lib/x86_64-linux-ghc-7.10.3/xml-conduit-1.3.5-8kpUjCzkbesDN436yiDfY9
+Registering xml-conduit-1.3.5...

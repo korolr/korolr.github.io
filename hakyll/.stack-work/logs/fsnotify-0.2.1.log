@@ -1,0 +1,29 @@
+Configuring fsnotify-0.2.1...
+Building fsnotify-0.2.1...
+Preprocessing library fsnotify-0.2.1...
+[1 of 7] Compiling System.FSNotify.Path ( src/System/FSNotify/Path.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/System/FSNotify/Path.o )
+
+src/System/FSNotify/Path.hs:17:1: Warning:
+    The import of ‘Control.Applicative’ is redundant
+      except perhaps to import instances from ‘Control.Applicative’
+    To import instances alone, use: import Control.Applicative()
+[2 of 7] Compiling System.FSNotify.Types ( src/System/FSNotify/Types.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/System/FSNotify/Types.o )
+[3 of 7] Compiling System.FSNotify.Listener ( src/System/FSNotify/Listener.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/System/FSNotify/Listener.o )
+[4 of 7] Compiling System.FSNotify.Linux ( src/System/FSNotify/Linux.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/System/FSNotify/Linux.o )
+[5 of 7] Compiling System.FSNotify.Polling ( src/System/FSNotify/Polling.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/System/FSNotify/Polling.o )
+
+src/System/FSNotify/Polling.hs:14:1: Warning:
+    The import of ‘Control.Applicative’ is redundant
+      except perhaps to import instances from ‘Control.Applicative’
+    To import instances alone, use: import Control.Applicative()
+[6 of 7] Compiling System.FSNotify  ( src/System/FSNotify.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/System/FSNotify.o )
+
+src/System/FSNotify.hs:67:1: Warning:
+    The import of ‘Control.Applicative’ is redundant
+      except perhaps to import instances from ‘Control.Applicative’
+    To import instances alone, use: import Control.Applicative()
+[7 of 7] Compiling System.FSNotify.Devel ( src/System/FSNotify/Devel.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/System/FSNotify/Devel.o )
+In-place registering fsnotify-0.2.1...
+Installing library in
+/home/korolr/.stack/snapshots/x86_64-linux-ncurses6/lts-6.10/7.10.3/lib/x86_64-linux-ghc-7.10.3/fsnotify-0.2.1-2PgImn35WXIENvOD2WG9bp
+Registering fsnotify-0.2.1...

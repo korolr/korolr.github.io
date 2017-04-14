@@ -1,0 +1,33 @@
+Configuring x509-store-1.6.1...
+Building x509-store-1.6.1...
+Preprocessing library x509-store-1.6.1...
+[1 of 3] Compiling Data.X509.Memory ( Data/X509/Memory.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Data/X509/Memory.o )
+[2 of 3] Compiling Data.X509.File   ( Data/X509/File.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Data/X509/File.o )
+
+Data/X509/File.hs:6:1: Warning:
+    The import of ‘Control.Applicative’ is redundant
+      except perhaps to import instances from ‘Control.Applicative’
+    To import instances alone, use: import Control.Applicative()
+
+Data/X509/File.hs:8:1: Warning:
+    The import of ‘Data.ASN1.BinaryEncoding’ is redundant
+      except perhaps to import instances from ‘Data.ASN1.BinaryEncoding’
+    To import instances alone, use: import Data.ASN1.BinaryEncoding()
+
+Data/X509/File.hs:9:1: Warning:
+    The import of ‘Data.ASN1.Encoding’ is redundant
+      except perhaps to import instances from ‘Data.ASN1.Encoding’
+    To import instances alone, use: import Data.ASN1.Encoding()
+
+Data/X509/File.hs:13:1: Warning:
+    The import of ‘pemName’ from module ‘Data.PEM’ is redundant
+[3 of 3] Compiling Data.X509.CertificateStore ( Data/X509/CertificateStore.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Data/X509/CertificateStore.o )
+
+Data/X509/CertificateStore.hs:10:1: Warning:
+    The import of ‘Data.Monoid’ is redundant
+      except perhaps to import instances from ‘Data.Monoid’
+    To import instances alone, use: import Data.Monoid()
+In-place registering x509-store-1.6.1...
+Installing library in
+/home/korolr/.stack/snapshots/x86_64-linux-ncurses6/lts-6.10/7.10.3/lib/x86_64-linux-ghc-7.10.3/x509-store-1.6.1-IjsgIdmtW9RJEVm7wYt8UI
+Registering x509-store-1.6.1...

@@ -1,0 +1,24 @@
+Configuring http-client-0.4.31...
+Building http-client-0.4.31...
+Preprocessing library http-client-0.4.31...
+[ 1 of 17] Compiling Network.PublicSuffixList.Types ( publicsuffixlist/Network/PublicSuffixList/Types.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Network/PublicSuffixList/Types.o )
+[ 2 of 17] Compiling Network.PublicSuffixList.Serialize ( publicsuffixlist/Network/PublicSuffixList/Serialize.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Network/PublicSuffixList/Serialize.o )
+[ 3 of 17] Compiling Network.PublicSuffixList.DataStructure ( publicsuffixlist/Network/PublicSuffixList/DataStructure.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Network/PublicSuffixList/DataStructure.o )
+[ 4 of 17] Compiling Network.PublicSuffixList.Lookup ( publicsuffixlist/Network/PublicSuffixList/Lookup.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Network/PublicSuffixList/Lookup.o )
+[ 5 of 17] Compiling Network.HTTP.Client.Util ( Network/HTTP/Client/Util.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Network/HTTP/Client/Util.o )
+[ 6 of 17] Compiling Network.HTTP.Client.Types ( Network/HTTP/Client/Types.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Network/HTTP/Client/Types.o )
+[ 7 of 17] Compiling Network.HTTP.Client.Connection ( Network/HTTP/Client/Connection.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Network/HTTP/Client/Connection.o )
+[ 8 of 17] Compiling Network.HTTP.Client.Headers ( Network/HTTP/Client/Headers.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Network/HTTP/Client/Headers.o )
+[ 9 of 17] Compiling Network.HTTP.Client.Request ( Network/HTTP/Client/Request.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Network/HTTP/Client/Request.o )
+[10 of 17] Compiling Network.HTTP.Client.Manager ( Network/HTTP/Client/Manager.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Network/HTTP/Client/Manager.o )
+[11 of 17] Compiling Network.HTTP.Client.Body ( Network/HTTP/Client/Body.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Network/HTTP/Client/Body.o )
+[12 of 17] Compiling Network.HTTP.Client.Response ( Network/HTTP/Client/Response.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Network/HTTP/Client/Response.o )
+[13 of 17] Compiling Network.HTTP.Client.Cookies ( Network/HTTP/Client/Cookies.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Network/HTTP/Client/Cookies.o )
+[14 of 17] Compiling Network.HTTP.Client.Core ( Network/HTTP/Client/Core.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Network/HTTP/Client/Core.o )
+[15 of 17] Compiling Network.HTTP.Client.Internal ( Network/HTTP/Client/Internal.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Network/HTTP/Client/Internal.o )
+[16 of 17] Compiling Network.HTTP.Client ( Network/HTTP/Client.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Network/HTTP/Client.o )
+[17 of 17] Compiling Network.HTTP.Client.MultipartFormData ( Network/HTTP/Client/MultipartFormData.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Network/HTTP/Client/MultipartFormData.o )
+In-place registering http-client-0.4.31...
+Installing library in
+/home/korolr/.stack/snapshots/x86_64-linux-ncurses6/lts-6.10/7.10.3/lib/x86_64-linux-ghc-7.10.3/http-client-0.4.31-7l1P8b3PzDiJlB7jWxDR1C
+Registering http-client-0.4.31...

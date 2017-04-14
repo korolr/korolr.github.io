@@ -1,0 +1,60 @@
+Configuring x509-1.6.3...
+Building x509-1.6.3...
+Preprocessing library x509-1.6.3...
+[ 1 of 13] Compiling Data.X509.OID    ( Data/X509/OID.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Data/X509/OID.o )
+
+Data/X509/OID.hs:15:1: Warning:
+    The import of ‘Control.Applicative’ is redundant
+      except perhaps to import instances from ‘Control.Applicative’
+    To import instances alone, use: import Control.Applicative()
+[ 2 of 13] Compiling Data.X509.Internal ( Data/X509/Internal.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Data/X509/Internal.o )
+[ 3 of 13] Compiling Data.X509.DistinguishedName ( Data/X509/DistinguishedName.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Data/X509/DistinguishedName.o )
+
+Data/X509/DistinguishedName.hs:18:1: Warning:
+    The import of ‘Control.Applicative’ is redundant
+      except perhaps to import instances from ‘Control.Applicative’
+    To import instances alone, use: import Control.Applicative()
+
+Data/X509/DistinguishedName.hs:19:1: Warning:
+    The import of ‘Data.Monoid’ is redundant
+      except perhaps to import instances from ‘Data.Monoid’
+    To import instances alone, use: import Data.Monoid()
+[ 4 of 13] Compiling Data.X509.ExtensionRaw ( Data/X509/ExtensionRaw.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Data/X509/ExtensionRaw.o )
+
+Data/X509/ExtensionRaw.hs:15:1: Warning:
+    The import of ‘Control.Applicative’ is redundant
+      except perhaps to import instances from ‘Control.Applicative’
+    To import instances alone, use: import Control.Applicative()
+[ 5 of 13] Compiling Data.X509.Ext    ( Data/X509/Ext.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Data/X509/Ext.o )
+
+Data/X509/Ext.hs:42:1: Warning:
+    The import of ‘Data.X509.Internal’ is redundant
+      except perhaps to import instances from ‘Data.X509.Internal’
+    To import instances alone, use: import Data.X509.Internal()
+
+Data/X509/Ext.hs:43:1: Warning:
+    The import of ‘Control.Applicative’ is redundant
+      except perhaps to import instances from ‘Control.Applicative’
+    To import instances alone, use: import Control.Applicative()
+[ 6 of 13] Compiling Data.X509.AlgorithmIdentifier ( Data/X509/AlgorithmIdentifier.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Data/X509/AlgorithmIdentifier.o )
+[ 7 of 13] Compiling Data.X509.CRL    ( Data/X509/CRL.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Data/X509/CRL.o )
+
+Data/X509/CRL.hs:19:1: Warning:
+    The import of ‘Control.Applicative’ is redundant
+      except perhaps to import instances from ‘Control.Applicative’
+    To import instances alone, use: import Control.Applicative()
+[ 8 of 13] Compiling Data.X509.Signed ( Data/X509/Signed.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Data/X509/Signed.o )
+[ 9 of 13] Compiling Data.X509.PublicKey ( Data/X509/PublicKey.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Data/X509/PublicKey.o )
+[10 of 13] Compiling Data.X509.Cert   ( Data/X509/Cert.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Data/X509/Cert.o )
+
+Data/X509/Cert.hs:15:1: Warning:
+    The import of ‘Control.Applicative’ is redundant
+      except perhaps to import instances from ‘Control.Applicative’
+    To import instances alone, use: import Control.Applicative()
+[11 of 13] Compiling Data.X509.CertificateChain ( Data/X509/CertificateChain.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Data/X509/CertificateChain.o )
+[12 of 13] Compiling Data.X509.PrivateKey ( Data/X509/PrivateKey.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Data/X509/PrivateKey.o )
+[13 of 13] Compiling Data.X509        ( Data/X509.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Data/X509.o )
+In-place registering x509-1.6.3...
+Installing library in
+/home/korolr/.stack/snapshots/x86_64-linux-ncurses6/lts-6.10/7.10.3/lib/x86_64-linux-ghc-7.10.3/x509-1.6.3-HPwsMxY1HW8COn9cjX3VwY
+Registering x509-1.6.3...

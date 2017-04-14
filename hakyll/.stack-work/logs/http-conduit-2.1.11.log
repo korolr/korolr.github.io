@@ -1,0 +1,30 @@
+Configuring http-conduit-2.1.11...
+Building http-conduit-2.1.11...
+Preprocessing library http-conduit-2.1.11...
+[1 of 3] Compiling Network.HTTP.Client.Conduit ( Network/HTTP/Client/Conduit.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Network/HTTP/Client/Conduit.o )
+
+Network/HTTP/Client/Conduit.hs:52:1: Warning:
+    The import of ‘Network.HTTP.Client’ is redundant
+      except perhaps to import instances from ‘Network.HTTP.Client’
+    To import instances alone, use: import Network.HTTP.Client()
+[2 of 3] Compiling Network.HTTP.Simple ( Network/HTTP/Simple.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Network/HTTP/Simple.o )
+
+Network/HTTP/Simple.hs:89:1: Warning:
+    The import of ‘Data.Default.Class’ is redundant
+      except perhaps to import instances from ‘Data.Default.Class’
+    To import instances alone, use: import Data.Default.Class()
+[3 of 3] Compiling Network.HTTP.Conduit ( Network/HTTP/Conduit.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Network/HTTP/Conduit.o )
+
+Network/HTTP/Conduit.hs:237:1: Warning:
+    The import of ‘Control.Applicative’ is redundant
+      except perhaps to import instances from ‘Control.Applicative’
+    To import instances alone, use: import Control.Applicative()
+
+Network/HTTP/Conduit.hs:238:1: Warning:
+    The import of ‘Control.Exception.Lifted’ is redundant
+      except perhaps to import instances from ‘Control.Exception.Lifted’
+    To import instances alone, use: import Control.Exception.Lifted()
+In-place registering http-conduit-2.1.11...
+Installing library in
+/home/korolr/.stack/snapshots/x86_64-linux-ncurses6/lts-6.10/7.10.3/lib/x86_64-linux-ghc-7.10.3/http-conduit-2.1.11-L8RyWjPmZvfEDYInKHFLhU
+Registering http-conduit-2.1.11...

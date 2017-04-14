@@ -1,0 +1,43 @@
+Configuring hourglass-0.2.10...
+Building hourglass-0.2.10...
+Preprocessing library hourglass-0.2.10...
+[ 1 of 17] Compiling Data.Hourglass.Zone ( Data/Hourglass/Zone.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Data/Hourglass/Zone.o )
+[ 2 of 17] Compiling Data.Hourglass.Utils ( Data/Hourglass/Utils.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Data/Hourglass/Utils.o )
+[ 3 of 17] Compiling Time.Types       ( Time/Types.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Time/Types.o )
+[ 4 of 17] Compiling Data.Hourglass.Types ( Data/Hourglass/Types.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Data/Hourglass/Types.o )
+[ 5 of 17] Compiling Data.Hourglass.Internal.Unix ( Data/Hourglass/Internal/Unix.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Data/Hourglass/Internal/Unix.o )
+
+Data/Hourglass/Internal/Unix.hs:24:1: Warning:
+    The import of ‘Control.Applicative’ is redundant
+      except perhaps to import instances from ‘Control.Applicative’
+    To import instances alone, use: import Control.Applicative()
+[ 6 of 17] Compiling Data.Hourglass.Internal ( Data/Hourglass/Internal.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Data/Hourglass/Internal.o )
+[ 7 of 17] Compiling Data.Hourglass.Calendar ( Data/Hourglass/Calendar.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Data/Hourglass/Calendar.o )
+[ 8 of 17] Compiling Data.Hourglass.Diff ( Data/Hourglass/Diff.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Data/Hourglass/Diff.o )
+
+Data/Hourglass/Diff.hs:22:1: Warning:
+    The import of ‘Data.Monoid’ is redundant
+      except perhaps to import instances from ‘Data.Monoid’
+    To import instances alone, use: import Data.Monoid()
+[ 9 of 17] Compiling Data.Hourglass.Time ( Data/Hourglass/Time.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Data/Hourglass/Time.o )
+[10 of 17] Compiling Data.Hourglass.Epoch ( Data/Hourglass/Epoch.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Data/Hourglass/Epoch.o )
+[11 of 17] Compiling Data.Hourglass.Local ( Data/Hourglass/Local.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Data/Hourglass/Local.o )
+[12 of 17] Compiling Time.System      ( Time/System.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Time/System.o )
+
+Time/System.hs:23:1: Warning:
+    The import of ‘Control.Applicative’ is redundant
+      except perhaps to import instances from ‘Control.Applicative’
+    To import instances alone, use: import Control.Applicative()
+[13 of 17] Compiling System.Hourglass ( System/Hourglass.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/System/Hourglass.o )
+[14 of 17] Compiling Data.Hourglass.Format ( Data/Hourglass/Format.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Data/Hourglass/Format.o )
+[15 of 17] Compiling Data.Hourglass   ( Data/Hourglass.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Data/Hourglass.o )
+
+Data/Hourglass.hs:40:1: Warning:
+    The import of ‘daysInMonth’
+    from module ‘Data.Hourglass.Calendar’ is redundant
+[16 of 17] Compiling Time.Compat      ( Time/Compat.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Time/Compat.o )
+[17 of 17] Compiling Data.Hourglass.Compat ( Data/Hourglass/Compat.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Data/Hourglass/Compat.o )
+In-place registering hourglass-0.2.10...
+Installing library in
+/home/korolr/.stack/snapshots/x86_64-linux-ncurses6/lts-6.10/7.10.3/lib/x86_64-linux-ghc-7.10.3/hourglass-0.2.10-LCfvpegcEVDEeuH0foNCGl
+Registering hourglass-0.2.10...

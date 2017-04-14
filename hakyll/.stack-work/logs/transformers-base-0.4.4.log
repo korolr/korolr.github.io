@@ -1,0 +1,18 @@
+Configuring transformers-base-0.4.4...
+Building transformers-base-0.4.4...
+Preprocessing library transformers-base-0.4.4...
+[1 of 1] Compiling Control.Monad.Base ( src/Control/Monad/Base.hs, .stack-work/dist/x86_64-linux-ncurses6/Cabal-1.22.5.0/build/Control/Monad/Base.o )
+
+src/Control/Monad/Base.hs:22:1: Warning:
+    The import of ‘Data.Monoid’ is redundant
+      except perhaps to import instances from ‘Data.Monoid’
+    To import instances alone, use: import Data.Monoid()
+
+src/Control/Monad/Base.hs:24:1: Warning:
+    The import of ‘Control.Applicative’ is redundant
+      except perhaps to import instances from ‘Control.Applicative’
+    To import instances alone, use: import Control.Applicative()
+In-place registering transformers-base-0.4.4...
+Installing library in
+/home/korolr/.stack/snapshots/x86_64-linux-ncurses6/lts-6.10/7.10.3/lib/x86_64-linux-ghc-7.10.3/transformers-base-0.4.4-74WedXVmfaHHDJItmBRTVp
+Registering transformers-base-0.4.4...
