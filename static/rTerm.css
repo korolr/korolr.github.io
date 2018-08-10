@@ -1,0 +1,51 @@
+.cursor {
+    animation:1s blinker linear infinite;
+    -webkit-animation:1s blinker linear infinite;
+    -moz-animation:1s blinker linear infinite;
+
+    text-align: center;
+    font-size: 14px;
+    font-family: monospace, sans-serif;
+    color: #999999;
+}
+
+@-moz-keyframes blinker {
+    0% { opacity: 1.0; }
+    50% { opacity: 1.0; }
+    100% { opacity: 0.0; }
+    }
+
+@-webkit-keyframes blinker {
+    0% { opacity: 1.0; }
+    50% { opacity: 1.0; }
+    100% { opacity: 0.0; }
+    }
+
+@keyframes blinker {
+    0% { opacity: 1.0; }
+    50% { opacity: 1.0; }
+    51% { opacity: 0.0; }
+    100% { opacity: 0.0; }
+    }
+
+.rterm {
+    display: inline-block;
+    width:750px;
+    max-width:750px;
+    font-size: 14px;
+    font-family: monospace, sans-serif;
+    color: #999999;
+}
+
+#term {
+    position: fixed;
+
+    right: 0;
+    left: 0;
+    margin-right: auto;
+    margin-left: auto;
+
+    min-height: 10em;
+    width: 425px;
+    text-align: left;
+}

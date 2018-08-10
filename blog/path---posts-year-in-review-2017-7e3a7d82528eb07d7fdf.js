@@ -1,0 +1,2 @@
+webpackJsonp([0x8cce270331d5],{290:function(e,t){e.exports={data:{site:{siteMetadata:{title:"Alexsey Ramzaev",description:"Боль, питон и джаваскрипт",author:{name:"Alexsey Ramzaev",url:"https://twitter.com/korolr22"}}},markdownRemark:{html:"<p>2017 сосет</p>",excerpt:"2017 сосет",frontmatter:{title:"2017 - A Year in Review"}}},pathContext:{slug:"/posts/year-in-review-2017/"}}}});
+//# sourceMappingURL=path---posts-year-in-review-2017-7e3a7d82528eb07d7fdf.js.map

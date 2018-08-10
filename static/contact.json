@@ -1,0 +1,32 @@
+{
+    "fs": {
+        "home": {
+            "korolr": {
+                "github": "_link:https://github.com/korolr",
+                "blog": "_link:http://korolr.pw/blog",
+                "telegram": "_link:https://t.me/korolr",
+                "steam": "_link:https://steamcommunity.com/id/korolr/",
+                "vndb": "_link:https://vndb.org/u134650",
+                "twitter": "_link:https://twitter.com/korolr22",
+                "e-mail": "_link:mailto:Korolr@member.fsf.org"
+            }
+        },
+        "etc": {
+          "motd": "Hi! Welcome to my personal page!"
+        },
+        "dev": {
+          "random": "_call:random",
+          "urandom": "_call:random"
+        }
+    },
+    "whoami": [
+        "A human from Balakovo and I like to do stuff and ",
+        "who interesting things:",
+        " - frontend/backend development;",
+        " - privacy;",
+        " - psihology;",
+        " - music."
+    ],
+    "uname": "Alexsey Ramzaev",
+    "upstart": ["cat /etc/motd", "uname", "whoami", "ls"]
+}

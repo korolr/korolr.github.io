@@ -1,8 +1,0 @@
-<item>
-    <title>$title$</title>
-    <link>$root$$url$</link>
-    <description><![CDATA[$description$]]></description>
-    <pubDate>$published$</pubDate>
-    <guid>$root$$url$</guid>
-    <dc:creator>$authorName$</dc:creator>
-</item>

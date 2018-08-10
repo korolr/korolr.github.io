@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{86:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Alexsey Ramzaev",description:"Боль, питон и джаваскрипт"}}},layoutContext:{}}}});
+//# sourceMappingURL=path----e8c03df65bcf03a55012.js.map
