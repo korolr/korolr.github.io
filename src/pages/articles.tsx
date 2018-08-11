@@ -97,7 +97,7 @@ export default ({ data }: ArticleListingProps) => {
       <Container>
         {posts.map(post => (
           <PostElement key={post.node.fields.slug}>
-            <Link to={post.node.fields.slug}>
+            <Link to={`/blog${post.node.fields.slug}`}>
               <h4>{post.node.frontmatter.title}</h4>
               <p>
                 {post.node.frontmatter.month} {post.node.frontmatter.year}

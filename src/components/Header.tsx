@@ -44,12 +44,12 @@ const Header: React.SFC<HeaderProps> = ({ title }) => (
   <StyledHeader>
     <HeaderInner>
       <Title>
-        <Link to="/">{title}</Link>
+        <Link to="/blog/">{title}</Link>
       </Title>
       <Links>
-        <Link to="/posts/my-library/">Library</Link>
-        <Link to="/articles">Articles</Link>
-        <Link to="/portfolio">Portfolio</Link>
+        <Link to="/blog/posts/my-library/">Library</Link>
+        <Link to="/blog/articles">Articles</Link>
+        <Link to="/blog/portfolio">Portfolio</Link>
       </Links>
     </HeaderInner>
   </StyledHeader>

@@ -10,7 +10,7 @@ const NotFoundPage = () => (
       <h1>404: Page not found.</h1>
       <p>
         You've hit the void.{' '}
-        <Link to="/" href="/">
+        <Link to="/blog/" href="/">
           Go back.
         </Link>
       </p>

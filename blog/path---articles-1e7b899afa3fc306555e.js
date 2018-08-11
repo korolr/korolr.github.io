@@ -1,0 +1,2 @@
+webpackJsonp([56932394960959],{286:function(e,t){e.exports={data:{site:{siteMetadata:{title:"Alexsey Ramzaev",description:"Pain, python and javascript",author:{name:"Alexsey Ramzaev",url:"https://twitter.com/korolr22"}}},allMarkdownRemark:{edges:[{node:{fields:{slug:"/posts/year-in-review-2017/"},frontmatter:{title:"2017 - A Year in Review",tags:["personal","review","life"],year:2017,month:"December",type:"Post",category:"Personal"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---articles-1e7b899afa3fc306555e.js.map

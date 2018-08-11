@@ -5,9 +5,9 @@ const cssnext = require("postcss-cssnext");
 module.exports = {
   siteMetadata: {
     title: "Alexsey Ramzaev",
-    description: "Боль, питон и джаваскрипт",
+    description: "Pain, python and javascript",
     pathPrefix: "/blog",
-    siteUrl: "https://korolr.github.io/blog/",
+    siteUrl: "https://korolr.pw/blog/",
     author: {
       name: "Alexsey Ramzaev",
       url: "https://twitter.com/korolr22",

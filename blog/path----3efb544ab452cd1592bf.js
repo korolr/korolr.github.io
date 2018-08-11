@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{86:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Alexsey Ramzaev",description:"Pain, python and javascript"}}},layoutContext:{}}}});
+//# sourceMappingURL=path----3efb544ab452cd1592bf.js.map
