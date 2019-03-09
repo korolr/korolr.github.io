@@ -1,7 +1,9 @@
-import * as React from 'react'
-import styled from 'styled-components'
+import * as React from "react";
+import styled from "styled-components";
 
-import { dimensions } from '../styles/variables'
+import { dimensions } from "../styles/variables";
+import { graphql } from "gatsby";
+import IndexLayout from "../layouts/index";
 
 const StyledPage = styled.div`
   display: block;
@@ -9,12 +11,16 @@ const StyledPage = styled.div`
   position: relative;
   padding: ${dimensions.containerPadding}rem;
   margin-bottom: 3rem;
-`
+`;
 
 interface PageProps {
-  className?: string
+  className?: string;
 }
 
-const Page: React.SFC<PageProps> = ({ children, className }) => <StyledPage className={className}>{children}</StyledPage>
+const Page: React.SFC<PageProps> = ({ children, className }) => (
+  <IndexLayout>
+    <StyledPage className={className}>{children}</StyledPage>
+  </IndexLayout>
+);
 
-export default Page
+export default Page;

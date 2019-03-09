@@ -1,21 +1,18 @@
-import * as React from 'react'
-import Link from 'gatsby-link'
+import * as React from "react";
+import Link from "gatsby-link";
 
-import Page from '../components/Page'
-import Container from '../components/Container'
+import Page from "../components/Page";
+import Container from "../components/Container";
 
 const NotFoundPage = () => (
   <Page>
     <Container>
       <h1>404: Page not found.</h1>
       <p>
-        You've hit the void.{' '}
-        <Link to="/blog/" href="/">
-          Go back.
-        </Link>
+        You've hit the void. <Link to="/">Go back.</Link>
       </p>
     </Container>
   </Page>
-)
+);
 
-export default NotFoundPage
+export default NotFoundPage;

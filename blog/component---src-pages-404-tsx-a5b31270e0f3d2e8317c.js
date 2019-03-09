@@ -1,2 +1,0 @@
-webpackJsonp([0xa25129398ba8],{158:function(e,t,l){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var n=l(1),a=l(84),u=l(32),o=l(20),r=function(){return n.createElement(u.default,null,n.createElement(o.default,null,n.createElement("h1",null,"404: Page not found."),n.createElement("p",null,"You've hit the void."," ",n.createElement(a.default,{to:"/blog/",href:"/"},"Go back."))))};t.default=r}});
-//# sourceMappingURL=component---src-pages-404-tsx-a5b31270e0f3d2e8317c.js.map

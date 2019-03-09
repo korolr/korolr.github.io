@@ -13,7 +13,7 @@ const StyledHeader = styled.header`
   background: ${colors.ui.light};
 `;
 
-const HeaderInner = styled(Container)`
+const HeaderInner = styled.div`
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -25,8 +25,8 @@ const HeaderInner = styled(Container)`
 
 const Links = styled.div`
   a {
-  color: ${colors.black}
-   padding-left: ${dimensions.gridUnit}px;
+    color: ${colors.black};
+    padding-left: ${dimensions.gridUnit}px;
   }
 `;
 

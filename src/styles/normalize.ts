@@ -1,10 +1,8 @@
 import styledNormalize from "styled-normalize";
-import { injectGlobal } from "styled-components";
+import { createGlobalStyle } from "styled-components";
 import { dimensions, fonts, colors } from "./variables";
-import { onEvent, media } from "./mixins";
-
 // tslint:disable-next-line:no-unused-expression
-injectGlobal`
+createGlobalStyle`
   ${styledNormalize}
 
   html {
@@ -23,23 +21,13 @@ injectGlobal`
   }
 
   body {
-    width: 100%;
-    overflow-x: hidden;
-    overflow-y: scroll;
-    font-family: ${fonts.sansSerif};
-    color: ${colors.black};
-    background-color: ${colors.white};
-    -webkit-text-size-adjust: 100%;
-    -ms-text-size-adjust: 100%;
+    margin: 0px;
   }
 
   // Set defaults for links
   a {
     text-decoration: none;
     color: ${colors.linkInk};
-    ${onEvent`
-      text-decoration: underline;
-    `}
   }
 
   img {
@@ -67,7 +55,7 @@ injectGlobal`
 
   td,
   th {
-    padding: .25rem .5rem;
+    padding: 0.25rem 0.5rem;
     border: 1px solid ${colors.ui.light};
   }
 
@@ -88,9 +76,14 @@ injectGlobal`
     }
   }
 
-  h1, h2, h3, h4, h5, h6 {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
     margin-top: 1.414rem;
-    margin-bottom: .5rem;
+    margin-bottom: 0.5rem;
     color: ${colors.ink};
     font-weight: 600;
     line-height: ${dimensions.lineHeight.heading};
@@ -110,7 +103,9 @@ injectGlobal`
     font-size: ${dimensions.headingSizes.h3}rem;
   }
 
-  h4, h5, h6 {
+  h4,
+  h5,
+  h6 {
     font-size: ${dimensions.headingSizes.h4}rem;
   }
 
@@ -135,7 +130,7 @@ injectGlobal`
   }
 
   dd {
-    margin-bottom: .5rem;
+    margin-bottom: 0.5rem;
   }
 
   hr {
@@ -146,9 +141,9 @@ injectGlobal`
   }
 
   blockquote {
-    margin: .8rem 0;
-    padding: .5rem 1rem;
-    border-left: .25rem solid ${colors.ui.light};
+    margin: 0.8rem 0;
+    padding: 0.5rem 1rem;
+    border-left: 0.25rem solid ${colors.ui.light};
     color: ${colors.gray.calm};
 
     p {
@@ -156,19 +151,5 @@ injectGlobal`
         margin-bottom: 0;
       }
     }
-    
-
-    ${media.md`
-      padding-right: 5rem;
-      padding-left: 1.25rem;
-    `}
   }
-  
-  ${media.sm`
-    h1 {font-size: 26px;}
-    h2 {font-size: 24px;}
-    h3 {font-size: 20px;}
-    h4,h5,h6 {font-size: 16px;}
-    p {font-size: 14px;}
-  `};
 `;

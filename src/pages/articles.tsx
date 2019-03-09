@@ -5,7 +5,7 @@ import Page from "../components/Page";
 import Container from "../components/Container";
 import styled from "styled-components";
 import { colors, fonts } from "../styles/variables";
-import fontFace from "polished/lib/mixins/fontFace";
+import { graphql } from "gatsby";
 
 interface ArticleListingProps {
   data: {
@@ -48,7 +48,7 @@ export const postQuery = graphql`
     }
     allMarkdownRemark(
       filter: { frontmatter: { type: { eq: "Post" } } }
-      sort: { fields: [frontmatter___date], order: DESC }
+      sort: { fields: [frontmatter___month], order: DESC }
     ) {
       edges {
         node {

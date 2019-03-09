@@ -5,6 +5,7 @@ import Container from "../components/Container";
 import styled from "styled-components";
 import { Link } from "react-router-dom";
 import { colors, fonts } from "../styles/variables";
+import { graphql } from "gatsby";
 
 interface PortfolioPageProps {
   data: {
@@ -108,7 +109,6 @@ const PortfolioPage = ({ data }: PortfolioPageProps) => {
           </StyledListElement>
         </StyledList>
 
-
         <h3>Published Articles</h3>
         <StyledList>
           <StyledListElement>
@@ -129,7 +129,6 @@ const PortfolioPage = ({ data }: PortfolioPageProps) => {
             </StyledListElement>
           ))}
         </StyledList>
-
       </Container>
     </Page>
   );

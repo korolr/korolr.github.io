@@ -4,6 +4,7 @@ import Page from "../components/Page";
 import Container from "../components/Container";
 import styled from "styled-components";
 import { fonts } from "../styles/variables";
+import { graphql } from "gatsby";
 
 interface PageTemplateProps {
   data: {

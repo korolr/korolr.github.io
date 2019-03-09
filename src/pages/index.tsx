@@ -5,7 +5,9 @@ import Link from "gatsby-link";
 import Page from "../components/Page";
 import Container from "../components/Container";
 import { dimensions } from "../styles/variables";
-import { media } from "../styles/mixins";
+import { media } from "../../styles/mixins";
+import { graphql } from "gatsby";
+import IndexLayout from "../../layouts";
 
 const StyledHeader = styled.div`
   h1,
@@ -17,32 +19,23 @@ const StyledHeader = styled.div`
 
 const StyledContent = styled.div`
   margin-top: 100px;
-
-  ${media.sm`
-    margin-top: 25px
-  `};
 `;
 
 export default () => (
   <Page>
     <Container>
       <StyledHeader>
-        <h1>Hi There.</h1>{" "}
-        <h2>I'm Alexsey Ramzaev. Frontend developer.</h2>
+        <h1>Hi There.</h1> <h2>I'm Alexsey Ramzaev. Frontend developer.</h2>
       </StyledHeader>
       <StyledContent>
         <h3>Work</h3>
-        <p>
-          Search 🎯 
-        </p>
-        
+        <p>Search 🎯</p>
+
         <h3>Extra Curricular</h3>
         <p>
-          On my own time, I contribute to
-          open-source projects like{" "}
+          On my own time, I contribute to open-source projects like{" "}
           <a href="https://github.com/go-martini/martini">Martini</a>{" "}
         </p>
-        
       </StyledContent>
     </Container>
   </Page>
