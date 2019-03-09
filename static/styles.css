@@ -1,6 +1,6 @@
 .gradient {
     background: #000000;
-    background: linear-gradient(to bottom, #000000, #361d30);
+    background: linear-gradient(to bottom, #000, #353F7F);
     height: calc(100vh - 478px);
 }
 .black {
