@@ -6,8 +6,8 @@ module.exports = {
   siteMetadata: {
     title: "Alexsey Ramzaev",
     description: "Pain, python and javascript",
-    pathPrefix: "/",
-    siteUrl: "https://korolr.pw/",
+    pathPrefix: "/blog",
+    siteUrl: "https://korolr.pw/blog/",
     author: {
       name: "Alexsey Ramzaev",
       url: "https://twitter.com/korolr22",

@@ -1,0 +1,36 @@
+.gradient {
+    background: #000000;
+    background: linear-gradient(to bottom, #000, #353F7F);
+    height: calc(100vh - 478px);
+}
+.black {
+    background: #000000;
+}
+img {
+    display: block;
+    margin: auto;
+}
+body {
+    margin:0;
+    padding:0;
+}
+html,body {
+    background: #000000;
+    height:95%;
+}
+h1 {
+    text-align: center;
+    font-weight: normal;
+    font-family: 'Catamaran', sans-serif;
+    color: #999999;
+}
+a:-webkit-any-link {
+    text-decoration: none;
+    color: #2D2D82;
+    cursor: default;
+}
+.link {
+    text-decoration: none;
+    color: #2D2D82;
+    cursor: default;
+}

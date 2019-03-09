@@ -5,9 +5,9 @@ import Link from "gatsby-link";
 import Page from "../components/Page";
 import Container from "../components/Container";
 import { dimensions } from "../styles/variables";
-import { media } from "../../styles/mixins";
+import { media } from "../styles/mixins";
 import { graphql } from "gatsby";
-import IndexLayout from "../../layouts";
+import IndexLayout from "../layouts";
 
 const StyledHeader = styled.div`
   h1,
