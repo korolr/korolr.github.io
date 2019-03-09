@@ -1,36 +1,39 @@
 .gradient {
-    background: #000000;
-    background: linear-gradient(to bottom, #000, #353F7F);
-    height: calc(100vh - 478px);
+  background: #000000;
+  background: linear-gradient(to bottom, #000, #353f7f);
+  height: calc(100vh - 478px);
 }
 .black {
-    background: #000000;
+  background: #000000;
 }
 img {
-    display: block;
-    margin: auto;
+  display: block;
+  margin: auto;
 }
 body {
-    margin:0;
-    padding:0;
+  margin: 0;
+  padding: 0;
 }
-html,body {
-    background: #000000;
-    height:95%;
+html,
+body {
+  background: #000000;
+  height: 95%;
 }
 h1 {
-    text-align: center;
-    font-weight: normal;
-    font-family: 'Catamaran', sans-serif;
-    color: #999999;
+  font-size: 25px;
+  text-align: center;
+  font-weight: normal;
+  font-family: "Catamaran", sans-serif;
+  color: #999999;
 }
+
 a:-webkit-any-link {
-    text-decoration: none;
-    color: #2D2D82;
-    cursor: default;
+  text-decoration: none;
+  color: #ba55d3;
+  cursor: default;
 }
 .link {
-    text-decoration: none;
-    color: #2D2D82;
-    cursor: default;
+  text-decoration: none;
+  color: #ba55d3;
+  cursor: default;
 }
