@@ -50,6 +50,7 @@ const Header: React.SFC<HeaderProps> = ({ title }) => (
         <Link to="/blog/posts/my-library/">Library</Link>
         <Link to="/blog/articles">Articles</Link>
         <Link to="/blog/portfolio">Portfolio</Link>
+        <Link to="/"> Main page</Link>
       </Links>
     </HeaderInner>
   </StyledHeader>

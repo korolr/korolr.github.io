@@ -1,10 +1,10 @@
 import * as React from "react";
 
-import Page from "../components/Page";
-import Container from "../components/Container";
+import Page from "../../components/Page";
+import Container from "../../components/Container";
 import styled from "styled-components";
 import { Link } from "react-router-dom";
-import { colors, fonts } from "../styles/variables";
+import { colors, fonts } from "../../styles/variables";
 import { graphql } from "gatsby";
 
 interface PortfolioPageProps {
