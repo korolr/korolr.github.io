@@ -27,6 +27,22 @@ h1 {
   color: #999999;
 }
 
+@media (max-width: 500px) {
+  h1 {
+    font-size: 35px;
+    text-align: center;
+    font-weight: normal;
+    font-family: "Catamaran", sans-serif;
+    color: #999999;
+  }
+
+  .gradient {
+    background: #000000;
+    background: linear-gradient(to bottom, #000, #353f7f);
+    height: calc(84vh - 500px);
+  }
+}
+
 a:-webkit-any-link {
   text-decoration: none;
   color: #ba55d3;
